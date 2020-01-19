@@ -1,4 +1,6 @@
 # cikk_archivum
-Azok az újság cikkek, amelyeket archiválni akarok, valami okból.
+Azok az újság cikkek, amelyeket archiváltam.
 
-Elsőként a TGM cikkeket kellene portolni a HVG alól.
+Két nézet, LaTeX és Markdown.
+
+Valamnint a scriptek.
