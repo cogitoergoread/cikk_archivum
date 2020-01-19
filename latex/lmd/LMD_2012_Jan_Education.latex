@@ -1,0 +1,50 @@
+% -*- mode: LaTeX; coding: iso-8859-2 -*-
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin2]{inputenc}
+\usepackage[magyar]{babel}
+\begin{document}
+\author{John Marsh}
+\title{  School limits }
+\date{2012, január 7 \thanks{LMD } }
+\maketitle
+
+\begin{abstract}
+  Education can't equalise society
+
+  More and earlier teaching won't redress childhood disadvantages, and not everyone will be able to go to university, or get graduate level jobs afterwards. Rebalancing the future will require a different approach
+
+by John Marsh
+
+\end{abstract}
+
+
+
+Just as the Occupy Wall Street (OWS) protests began to spread to other cities in the US and beyond, the respected, nonpartisan Congressional Budget Office (CBO) released a study that confirmed the reason that protestors had taken to the parks: rising economic inequality. The CBO found that from 1979 to 2007, after-tax income for the median household grew by 35\%; the average income of the top 1\% of households grew by 275\% (1).
+
+The day after the study's release, a columnist for The New York Times, Nicholas Kristof, published an opinion piece, \textqq{Occupy the Classroom} (19 October), in which he acknowledged economic inequality in the US. But instead of calling for changes in taxes and regulations or jailing bankers, as OWS preferred, he argued: \textqq{The single step that would do the most to reduce inequality {[}is{]} an expansion of early childhood education. One common thread, whether I'm reporting on poverty in New York City or in Sierra Leone, is that a good education tends to be the most reliable escalator out of poverty.} But another was that \textqq{whether in America or Africa, disadvantaged kids often don't get a chance to board that escalator}.
+
+This call might have seemed odd in the context of the OWS protests, since among the few concrete demands of protesters was student loan forgiveness: many of them, despite riding that escalator, had not found a good job (or any job) upon graduation. Yet in offering education as the key to reducing economic inequality, Kristof kept good company. In April Barack Obama had reiterated his goal of \textqq{making sure we are giving every one of our children the best possible education} since that was \textqq{the single most important factor in determining whether {[}children{]} succeed}. Education is \textqq{the key to opportunity. It is the civil rights issue of our time}.
+
+Remarkably, in a country where the political parties can hardly agree on the time of day, even those at the opposite end of the political spectrum look to education to secure economic equality. Gregory Mankiw, a former advisor to President George W Bush, acknowledged on National Public Radio in November the increasing \textqq{gap between the rich and poor}. He also suggested a primary cause of economic inequality was \textqq{the educational system. The problem is that we haven't been producing enough educated people to keep up with the increasing demand for high skilled workers.}
+
+Limits to schooling
+
+Except for God, Americans recognise no power higher than education. But can education reverse growing economic inequality? As with the existence of God, evidence is lacking.
+
+As rhetoric, slogans like Head Start (early childhood education), Race to the Top, and Leave No Child Behind work. As policy, they fail. We may not be able to level the educational playing field that much. Over the last decade, a considerable body of research has shown that even before kindergarten, children from poor families have already fallen behind children from affluent families. More often than not, schools lock these gaps into place, rather than reducing them. As journalist Dana Goldstein wrote: \textqq{The research consensus has been clear and unchanging for more than a decade: at most, teaching accounts for about 15\% of student achievement, while socioeconomic factors account for about 60\%} (2). There are limits to what schools can do. They can mitigate, but they cannot overcome the aptitudes children bring with them to start their formal education.
+
+Those who look to education to solve inequality are fighting over what determines how a child does in school. If we cared about overcoming the effect that poverty and low incomes have on educational achievement, we shouldn't tinker with the 15\% of education but go directly to the source, the 60\% of socioeconomic factors. If you want poor children to do better in school, forget about their education, just make them less poor.
+
+But the path from educational to economic equality faces a more daunting challenge. Even if education could overcome the effects of poverty and give every student an equal chance of attaining a college degree, that will not affect the economy into which children will enter. In the US, which job will provide the most new openings by 2018? Cashier. Second most? Retail salesperson. Third? Waiter or waitress. Fourth? Customer service representative. The next three? Registered nurse, food preparation and service worker, office clerk. None of these jobs requires a degree. With the exception of registered nurse, which needs an associate degree, none requires more than short- or medium-term on-the-job training. And only being a registered nurse pays enough to keep a family clear of the poverty threshold. According to the Bureau of Labor Statistics, by 2018 only about 25\% of jobs will require a college degree: the others will make do with work experience or on-the-job training, and pay accordingly.
+
+We cannot all go to college
+
+Regardless of how equal we make educational opportunity, someone must ring up purchases, sell merchandise, take breakfast orders, placate disgruntled customers, cook eggs, answer the phones. A majority of us, in fact. Jobs like these are here to stay. We cannot all go to college. Or, we can, but some of us will still need to work at McDonald's or at any of the other nearly 3m food preparation and serving jobs in the economy, each of which pays on average \$16,430 a year. More education will not mean more money for those who must take any of the low-skill, low-wage jobs that dominate the US labour market. Bad jobs, not bad education, are responsible for increasing economic inequality. Income has flowed to the top 1\% because it has stopped flowing to the base (the bottom 40\% of earners).
+
+Just as we fight over the 15\% of achievement that a school can control, we fight over who will get the good jobs and who will be doomed to the bad ones. If those who argue for education as the solution have their way, at best a few more children from poor families will graduate from college and find a good job. If the labour market is a zero sum game when it comes to jobs for college graduates, and it mostly is, that means a few more children from middle-class families will take the bad job a child from a poor family would have otherwise held. (The children from wealthy families will be fine either way.) Why don't we make the bad jobs better? By focusing on educational opportunity and equity, we may ignore a far larger injustice, tens of millions of workers spending their lives unemployed or underpaid.
+
+Obama and others who preach the gospel of education like to say educational opportunity is the civil rights issue of our time. They should remember that in the 1963 March on Washington, when Martin Luther King Jr delivered his \textqq{I Have a Dream} speech, protesters held signs that read \textqq{Jobs and Freedom}. Marchers made sure to include \textqq{Jobs} on their placards because they knew that jobs mattered --- how many, what they paid, who held them, and whether those who held them could join a union. Things haven't changed. 
+
+\end{document}
+

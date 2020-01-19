@@ -1,0 +1,58 @@
+% -*- mode: LaTeX; coding: iso-8859-2 -*-
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin2]{inputenc}
+\usepackage[magyar]{babel}
+\usepackage{hyperref}
+\begin{document}
+\author{Vincent Doumayrou}
+\title{  The triumph of English }
+\date{2014, július 4 \thanks{LMD} }
+\maketitle
+
+\begin{abstract}
+  \textsc{Join the mobile elite with globish}
+
+\textbf{The triumph of English}
+
+\textbf{Maastricht University is a prime example of the reasons for, and problems with, the use of English in higher education in non-Anglophone countries.}
+
+\textsc{by Vincent Doumayrou}
+
+\end{abstract}
+
+
+When, back in 1989, the Netherlands education minister suggested more university courses in English, public outrage caused parliament to pass a law making Dutch the official language of education. Yet the Netherlands is now Europe's biggest non-Anglophone provider of university courses taught in English; it is used in most masters degrees in life sciences, engineering and economics, though to a limited extent in BA courses and MAs in applied subjects.
+
+In law, Dutch has no constitutional status, and the legislation (passed in 1992) permitted so many exceptions that it has had little real effect. The Netherlands has a very open economy and speaks a Germanic language related to English and shared only with Flemish-speaking Belgium and Surinam. This makes achieving greater international influence via Dutch unlikely. And knowledge of English is widespread: the Education First consultancy ranks it third out of 60~countries in use of English.
+
+The idea behind the promotion of English in education is usually said to be the easy transmission of knowledge that is \textqq{international by definition}~(\href{http://mondediplo.com/2014/07/13english\#nb1}{\emph{1}}). No language has ever achieved such global predominance --- \textqq{if we're generous about what we mean by English,} as journalist Christopher Caldwell writes~(\emph{2}). In reality, the promotion of English in universities is mostly about competitiveness in a knowledge economy \textqq{characterised by the commercialisation at global level of the products of research and teaching}~(\href{http://mondediplo.com/2014/07/13english\#nb3}{\emph{3}}). The Dutch journal~\emph{Transfer}~claims that \textqq{institutions choose English on auto-pilot, because they want to appear to be international players. Universities ... fear they'll be relegated to the provincial league if they address only the domestic market.}
+
+The EU's Bologna Declaration of~1999 was intended to create a single European domain for higher education. But as the rector of Maastricht University, Luc Soete, told me, \textqq{Education has become an export product.} University authorities regard national languages as an obstacle to student mobility, like customs barriers, so creating a free trade in English is another way for them to sell their educational products.
+
+\section{Culture has not collapsed}
+
+Many French scientists believe that \textqq{the health of intellectual output from the Netherlands, which doesn't impose any linguistic restrictions, is proof that their culture has not collapsed by opening up to English}~(\href{http://mondediplo.com/2014/07/13english\#nb4}{\emph{4}}), and think France should follow suit. But the Netherlands Onderwijsraad (teaching council) advocates that universities should improve their policies for safeguarding the Dutch language and culture, and ensure that those using English are using it competently.
+
+The Netherlands' share of the world total of students studying abroad rose from 0.7\% to 1.2\% between 2000 and 2009~(\href{http://mondediplo.com/2014/07/13english\#nb5}{\emph{5}}) but, in~2012, 38\% came from Germany. Bulgaria sends twice as many students to the Netherlands as does India, and the only BRICS nation represented in any numbers is China, with 8\% of the foreign student body. Rather than increasing the Netherlands' influence on the emerging world, the use of English means one language gaining ever greater hegemony in internal European relations, going against the EU's multilingual aim.
+
+Maastricht University is typical of this parochial internationalisation, limited to close neighbours. With 47\% of its students from abroad, Maastricht boasts it is the nation's most international university, although interregional would be more accurate: 75\% of its foreign students are German, and most of the rest Belgian and British. Nine out of the 12~nationalities represented here are in the EU. All teaching is in English, apart from Dutch law and some components of the medical course.
+
+Silke, a student from Aachen, less than an hour away, has a limited interest in her host country and admitted she \textqq{took Dutch classes, but didn't keep them up.} Peter Wilms van Kersbergen, who runs the Language Centre, said: \textqq{Dutch lessons are free in the first year and are very successful.} But only 800 out of 7,500~foreign students take them, since they don't count towards a degree, and many students still can't even ask for a café bill by the time they graduate. They can't be getting much out of the host culture, which is supposed to be a benefit of studying abroad.
+
+According to the daily~\emph{NRC Handelsblad,}~Dutch professors' English is acceptable, but often imprecise --- Dutch-language concepts are frequently reconstructed in English using clunky components instead of correct, specific terms. This sort of imprecision is widespread, and leads to a fundamental lack of clarity. Communication also becomes less spontaneous, as sociologist Jaap Dronkers said: \textqq{My English isn't bad, but when I was supervising research, I didn't have the linguistic subtlety I needed to get agreements.} Studies have shown that students pay more attention to literal comprehension when teaching is done in English rather than their own language, and this limits their spirit of enquiry.
+
+\section{Limitations of `globish'}
+
+Merely functional English, like all pidgin languages, is useful for superficial interactions, but has limitations in a university, which requires much greater linguistic abilities. It's rare to have the same mastery of a second language as of a first, even in countries with a reputation for excellent English. A British observer has described the boredom of attending lectures in \textqq{globish}, even when delivered by northern Europeans~(\href{http://mondediplo.com/2014/07/13english\#nb6}{\emph{6}}).
+
+Dutch may suffer too, its use degraded and debased; a Maastricht student on a communications course admitted she knew \textqq{the rules of spelling, but because we always have to write in English at uni, they take a back seat.} Dutch may suffer a \textqq{loss of domain}, where non-English languages lose their ability to express scientific concepts; this leads to a loss of prestige, and then substance, ultimately confining the language to home, garden and kitchen. Dronkers fears diglossia, in which two languages with unequal social statuses coexist. He speaks to his assistant in Dutch, but emails her in English, so that the messages can be forwarded to others. Dutch is gradually being restricted to informal chat, like a patois.
+
+The primacy of English does not currently threaten the survival of Dutch, but it is seriously hindering the study of other languages. According to Ludo Beheydt, a professor at Louvain University, \textqq{Knowledge of languages other than English has become so limited that we can no longer ask university students to read an article in French or German}~(\href{http://mondediplo.com/2014/07/13english\#nb7}{\emph{7}}). According to a survey published by the European Commission, 38\% of Europeans who say they can speak another language cite English. Between~2005 and 2012, the number citing German dropped from 14\% to 11\%, French from 14\% to 12\% and Russian from 6\% to 5\%. Only the number citing Spanish increased, from 6\% to 7\%~(\href{http://mondediplo.com/2014/07/13english\#nb8}{\emph{8}}). In the UK, the study of foreign languages in secondary schools has declined substantially.
+
+This trend is especially bizarre where languages have strong affinities. Bodil Aurstad, who teaches Norwegian in Sweden, has observed that rapid progress and geographical proximity motivate students, who \textqq{within weeks can show good written and oral comprehension.} Pan-Nordic comprehension has in the past made possible cultural openness and discussion of common experience; but the custom of two people communicating by each speaking their own language and understanding the other is in danger of disappearing.
+
+Anglicisation makes it easier to meet the expectations of international research networks, and emphasises the feeling of belonging to a global, mobile knowledge elite. Since knowledge of classical culture has waned, mastery of English, even imperfect \textqq{globish}, becomes a primary criterion of cultural distinction. In 1921 Gandhi criticised the \textqq{superstition} of Indians who regarded English as the only vector of modernity, little realising that the same struggle would go global.
+
+\end{document}
+

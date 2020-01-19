@@ -1,0 +1,113 @@
+% -*- mode: LaTeX; coding: iso-8859-2 -*-
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin2]{inputenc}
+\usepackage[magyar]{babel}
+\begin{document}
+\author{Berencsi György}
+\title{ A józan észre kellene hallgatni  }
+\date{2009, október 29 \thanks{Narancs XXI. évf. 44. szám} }
+\maketitle
+
+\begin{abstract}
+\textbf{Narancs XXI. évf. 44. szám -- 2009-10-29 }élet + mód - influenza + oltás
+
+\textbf{"A józan észre kellene hallgatni" - Berencsi György virológus, az Országos Epidemiológiai Központ (OEK) tudományos tanácsadója }
+
+\textbf{Az új influenza terjedésérõl, veszélyeirõl és az oltás körüli felhajtásról is kérdeztük Berencsi Györgyöt, aki határozottan kiáll a hazai oltóanyag elõnyei mellett. A betegeknek adható vírus elleni szerek közel sem helyettesítik a megelõzést - mondja a szakember, ráadásul az új vírus jó ideig még biztosan megkeseríti az életünket.}
+
+  
+\end{abstract}
+
+\textbf{Magyar Narancs: A mostani influenza mitõl veszélyesebb a szezonális influenzáknál? Miért valószínû, hogy sokkal többen fognak megbetegedni?}
+
+Berencsi György: A nagy különbség, hogy a korábbi vírusokkal ellentétben a mostani ellen senkinek nincsen korábbról semmilyen védettsége. Az 1918-as spanyolnátha óta az összes járvány olyan vírus miatt keletkezett, ami ellen mindenkinek volt egy kis immunitása, de mivel a mostani a sertések és a madarak vírusaiból jött létre, ilyen immunitás nincsen. Ezért van a különbözõ országokban egyre inkább pánik, bár még nincsen akkora tragédia, mint amekkorát jósoltak a szakemberek. De az, hogy eddig csak néhány százezren betegedtek meg a világon, nálunk pedig csak néhány százan, annak köszönhetõ, hogy maga a vírus még lusta, még nem szokott hozzá anynyira az emberhez.
+
+\textbf{MN: Ha még nem volt ilyen, akkor honnan szedik a hatóságok azt az adatot, hogy a lakosság harmada is megbetegedhet?}
+
+BGY: Ez egy becslés. A vírus anynyira változékony, hogy egyetlen genetikai mutáció képes megtízszerezni a szaporodási sebességét. Jön a tél, és ha megtörténik a mutáció, akkor igaza lesz annak, aki most hárommillió megbetegedést tart elképzelhetõnek. Ha enyhe lesz a tél, és mutáció sem lesz, akkor kevesebben fognak megbetegedni. De az is új tulajdonsága a mostani vírusnak, hogy nyáron okozott járványt Amerikában és Mexikóban. Azóta már 160 országban mutatták ki, és nálunk is voltak megbetegedések áprilisban-májusban. Pedig az 1957-es és az 1968-as világjárvány idején csak szeptemberben ért Magyarországra a vírus és márciusban nyomtalanul el is tûnt. Lehet mondani, hogy azóta megváltoztak Magyarországon az emberek közlekedési lehetõségei és szokásai - de Amerikában 1968-ban is ugyanígy lehetett közlekedni. Mostanában jellemzõ a rövid tél, elképzelhetõ, hogy a vírus kénytelen lesz megtanulni melegben is szaporodni és terjedni. Az viszont biztos, hogy ha úgy kapja el a lakosság, hogy nincs beoltva, akkor a halálozás sokkal nagyobb lesz. Ezért nagy disznóság a vakcináció ellen hülyeségeket terjeszteni. Az sem fordult elõ 1918 óta, hogy a 25-65 éves korosztály súlyosabban megbetegedett, mint a 65 év felettiek. Most viszont a munkaképes korosztály a veszélyeztetett, és ha Magyarországon lenne hárommillió beteg, akkor megnézhetnénk, hogy például hány rendõr, egészségügyi dolgozó vagy akár kereskedelmi dolgozó maradna aktív.
+
+\textbf{MN: Miért pont a munkaképes korosztály a veszélyeztetettebb?}
+
+BGY: Ez érdekes kérdés, mert laboratóriumban nem lehet kimutatni, de az idõsebbeknek mégis lehet valamilyen védettségük. A kórházba kerülõ influenzások közül sokkal több 40 éves hal meg tüdõgyulladásban, mint ahány a 65 éven felüliek közül. A spanyolnátha vírusának szaporodása az ázsiai világjárvány kitörésekor, 1957-ben szûnt meg. Például én, aki 1941-ben születtem, tizenhat év alatt legalább ötször megfertõzõdtem a spanyolnátha, azaz a régi H1N1 vírussal. A vírus belsõ fehérjéi eddig ugyanazok voltak, hiszen a változás mindig csak a külsõ felszínen történik. Ez az elsõ eset, hogy az új H1N1 belül is csupa sertés- és madárvírusból áll, amivel eddig az emberiség immunrendszere egyszerûen nem találkozott. Ennek ellenére kell lennie valami közösnek a régivel, csak azt nem tudjuk, hogy mi. További érdekesség, ami eddig szintén nem fordult elõ, hogy a vírus a bélcsatornában is szaporodik, ezért a betegek felénél hányást és hasmenést is okoz. Ezért kell kezet mosni és vigyázni a higiénére, mert lehetséges, hogy nem csak köhögéssel, hanem kézfogással, szennyezõdéssel is tud terjedni. Ez persze amiatt van, mert az új vírus két génjét a madárinfluenza vírusától örökölte, ami viszont a széklettel terjed.
+
+\textbf{MN: Az új H1N1 influenza a betegség lefolyását tekintve is súlyosabb, mint a szezonális?}
+
+BGY: Egyelõre nem, vagy legfeljebb csak egy kicsit. A komplikációk között valamivel nagyobb a halálozás, mint amekkora a hongkongi vírus okozta 1968-as világjárvány idején volt. Akkor egyébként három év alatt terjedt el a vírus a magyar lakosságban, minden második ember megkapta, és ötezer ember halt meg. De addigra már 1,2 millió vakcinát beadtak, és nem lehet üveggömbbõl megjósolni, hogy oltás nélkül hányan haltak volna meg.
+
+\textbf{MN: Néhány éve, a H5N1 vírus esetén is hatalmas felhajtás volt, mint kiderült, fölöslegesen.}
+
+BGY: Akkor minimum 10 milliárd galambot, libát, tyúkot kellett levágni, hogy megszüntessék a H5N1-járványt. Mindenki azt hitte, hogy ebbõl lesz a következõ világjárvány. Az influenza A-vírusának 144-féle altípusa és végtelenül nagy számú variánsa lehetséges, például a H5N1, a H7N7, a H3N8 mind meg tudta fertõzni az embereket, viszont emberrõl emberre nem terjedtek tovább. De senki nem tudta megjósolni a H5N1-rõl sem, hogy vajon egy géncsere után nem lesz-e képes erre. Aztán be is következett a géncsere, csak éppen elõször nem az emberi influenzavírussal, hanem a sertésvírussal.
+
+\textbf{MN: Kik most a fokozottan veszélyeztetettek?}
+
+BGY: Úgy lehet összefoglalni, hogy az, aki nem bírja ki a 39 fokos lázat. Például szívbetegek, asztmások, tüdõbetegek, cukorbetegek, transzplantáltak, vagy akik allergia miatt immunszuppresszív gyógyszereket kapnak. Ez a szezonális influenzánál is így van, csak sokkal veszélyesebb egy világjárvány.
+
+\textbf{MN: Mekkora valószínûséggel óv meg az oltás a betegségtõl?}
+
+BGY: A védõoltás nem jelent abszolút védettséget, csak a betegség súlyosságát és kockázatait tudja csökkenteni. Amikor a vírust belélegezzük, a légutak nyálkahártyáján rögtön elkezd szaporodni, ami ellen nem használnak az ellenanyagok, mert azok a vérben vannak. Az ellenanyagok a komplikációkat tudják megakadályozni, tehát hogy a vírus a véren keresztül eljusson a tüdõbe, az agyba. Aki be van oltva, az nem hal meg, persze egyébként sem önmagában az influenzában halna meg, hanem mert több vírus- és baktériumfertõzés együtt agyoncsapja a védekezõképességét. Ha valaki be van oltva, és influenzás lesz, akkor nem öt napig lesz 38 fokos láza, hanem csak három napig, vagy nem 39 fokos lesz a láza, hanem csak 38. Emiatt kellene a terhes nõket beoltani, mert a 39 feletti láz nagyon gyakran károsítja a magzatot.
+
+\textbf{MN: Pedig éppen a várandós nõk esetében vitatott az oltás veszélyessége.}
+
+BGY: A magyarországi vakcinát több mint ötven éve gyártják és alkalmazzák, ezalatt több mint húszmillió adagot adtak be, és soha senkinek nem volt olyan baja tõle, ami miatt aggódni kellene. A húszmillió között egész biztosan volt legalább több száz terhes nõ is, csak éppen senki nem vette észre. Ezért én mindenkinek azt szoktam tanácsolni, hogy a terhesség harmadik hónapja után oltassa be magát. Addigra ugyanis a magzat öszszes szervének a fejlõdése megtörténik, utána semmilyen fejlõdési rendellenességet nem lehet a védõoltással magyarázni. De egyébként is, az elölt vírus a vakcina százezred része, hat mikrogramm, ami a nyolcvankilós terhes embernek olyan kicsi mennyiség, hogy csak az immunrendszere veszi észre. Ráadásul, ha beoltatja magát az anya, akkor az újszülött is immúnis lesz hat hónapos koráig, amíg úgysem oltható.
+
+\textbf{MN: Viszont a terhes nõknél nincsenek külön vizsgálatok.}
+
+BGY: Ha a terhes nõt megharapja a veszett kutya, akkor be kell oltani veszettség ellen, mert különben meghal. Pedig a veszettség-vakcina sem volt soha terheseken kipróbálva. Régen Magyarországon is, de a világ felén ma is a terhesség alatt kapják meg a nõk azokat az oltásokat, amelyeket gyerekkorukban nem kaptak meg, hogy a szülés után se az anya, se az újszülött ne kapjon például tetanuszt. Ennyi a kipróbálás. Az angolok elmentek Bangladesbe, beoltottak 340 terhes nõt a saját influenzavakcinájukkal, és a gyerekeknek 24 hónapos korukig nem lett semmi bajuk. Persze rengeteg etikai és emberi jogi támadás érte õket emiatt, de hát valahol ki kellett próbálniuk. A magyar vakcina pedig számos szempontból jobb az angolokénál, és a bangladesi higiénés viszonyok is rosszabbak a mienknél. Amerikában pedig már egy évtizede beoltják átlagban a lakosság tíz százalékát, és egyszerre a lakosság legalább egy százaléka terhes. Tehát évente 280 ezer terhes anyát oltanak be, és a nagyon erõs egészségügyijogász-hálózat soha nem tudta bebizonyítani egyetlen sérült magzatnál sem, hogy az oltás miatt károsodott. Ugyanígy van Japánban is, Kanadában is. De a magyar vakcina más technológiával készül, mint az amerikai, ezért van az a leírásában, hogy az orvos dönti el, beoltja-e a várandós nõt, vagy sem.
+
+\textbf{MN: Milyen különbség van a gyártási technológiában?}
+
+BGY: A magyar és a kanadai vakcinában van alumínium-foszfát adjuváns, ami egyfajta erõsítõszer. Ez lelassítja az elölt vírusok felvételét, ezért tovább tart a vakcina hatása, így csak harmadannyi vírust kell beletenni. Képtelenség, hogy ez ártalmas legyen, hiszen Magyarországon végig a szocializmus alatt alumíniumlábasokban készült ételeket ettünk alumínium evõeszközökkel, mivel nem volt más. Ha az alumínium ártana, akkor mindanynyian hülyék lennénk - ráadásul az alumínium-foszfát nem is olyan, mint a fém alumínium.
+
+\textbf{MN: Az sem hangzik túl jól, hogy az oltóanyag tartósítószerként higanyvegyületet tartalmaz.}
+
+BGY: Ezzel ugyanaz van, mint az alumíniummal. A thiomersal egy szerves higanyvegyület, egészen más, mint amikor eltörik a hõmérõ, és kigurul a higany a szõnyegre. Eleve mikrogrammnyi mennyiségben van jelen, és mivel az ember enzimjei nem tudják lebontani, sosem lesz belõle fém higany, egy hét alatt kiürül a szervezetbõl. Az Európai Unió szeretné elérni a fém higany kiküszöbölését, amivel teljesen egyetértek, a legtöbb termékben nincs is már rá szükség. De én 44 éve vagyok orvos, azóta mindenki thiomersalt használt, majd valakinek nem ment jól az üzlete, és kiküszöbölte. Helyette bevezették a szövettenyészeti vakcinát, amiben nincsen baktériumszennyezõdés. Csakhogy akkor nem is okoz immunválaszt, mert hiányzik az endotoxin. Magyarul mégis kénytelenek voltak hozzárakni adjuvánsokat, de nem ám alumínium-foszfátot vagy alumínium-hidroxidot, hanem olajat - ami pedig minden publikáció szerint sokkal rosszabb. De nem a bizonyítékok számítanak, hanem a médiakampányok.
+
+\textbf{MN: Az is elhangzott, hogy a magyar vakcina az elölt teljes vírust tartalmazza, aminek így több lehet a mellékhatása, mint a hasított vírust tartalmazóknak.}
+
+BGY: Ha egész vírust tartalmaz, akkor az immunrendszer a vírus felszínén levõ antigéneket fogja észrevenni és azok ellen fog ellenanyagot termelni. Ha a hasított vagy az alegység vakcinához a vírust szétrobbantják, akkor a belsejében lévõ antigének ellen is termelõdik ellenanyag. De ennek semmilyen biológiai hatása nincsen, mert amikor szaporodik a vírus, akkor az immunrendszer úgysem tud hozzáférni a belsejéhez. Ezért a split vagy az alegységvakcina feleslegesen megdolgoztatja az immunrendszert, mégis csak ugyanaz a nyolc ellenanyag hatékony, mint az egész vírust tartalmazó vakcina esetén. Sõt, a szétrobbantás miatt abból a nyolcból a kémiai kezelés egyet-kettõt még tönkre is tesz, tehát a felszínen ható ellenanyagok száma még kevesebb is lesz. Ma már egyébként máshol is kezdenek visszatérni a teljes elölt vírust tartalmazó vakcinához.
+
+\textbf{MN: Ezek valószínûleg nem ilyen egyértelmû tények, ha egyszer más cégek más módszereket használnak.}
+
+BGY: Erre mit mondjak? Más az üzleti filozófiájuk. A WHO kipróbáltatta, és kiderült, hogy a magyar és a kanadai vakcina esetén egyetlen oltás után is védekezésre alkalmas ellenanyag-mennyiséget termel a szervezet, legfeljebb a pici gyerekeket kell kétszer oltani. Az egyéb módszerekkel gyártott vakcinák viszont a legtöbbször kétszeres oltást kívánnak meg. Az amerikai gyártók pedig addig tudják eladni Kanadába a terméküket, ameddig a kanadaiaknak nem szabad a sajátjukat terhes nõknek beadni. Ez egy teljesen üzleti világ.
+
+\textbf{MN: Eddig azt az összeesküvés-elméletet ismertük, hogy a vakcinagyártók találták ki az influenza súlyosságát - ha ugyan nem õk fejlesztették ki a vírust is -, ráadásul az oltóanyaggal együtt mikrocsipet is ültetnek belénk. Erre ön most új elmélettel állt elõ: a magyar vakcinával szembeni bizonytalanságok a konkurencia malmára hajtják a vizet.}
+
+BGY: Ez bizony így van. A szezonális vakcinákkal mindenhol a lakosság kis részét oltják be, mert mindenki fél a tûszúrástól, és az influenza azért nem is olyan veszélyes betegség. Az igazi üzlet világjárvány idején van, ilyenkor mindenki le akarja szakítani a maga profitját. A magyar gyárat már legalább ötször meg akarták fojtani a versenytársai. A cseh, a szlovák, a román és a bolgár gyártást pedig sikerült is megfojtaniuk, azaz egyszerûen piacot vásároltak.
+
+\textbf{MN: Mitõl válik hitkérdéssé az oltási szándék, amikor elvileg tényeken alapuló orvoslásról van szó?}
+
+BGY: Sokan élnek abból, hogy influenzások az emberek. Én is kaptam már ajándékba olyan grépfrút üdítõitalt, ami állítólag jó az influenzára. A mexikói járvány kitörésekor minden harmadik japán vett magának szájmaszkot. Az már elég nagy mennyiség.
+
+\textbf{MN: Nem növeli a hazai vakcinával szembeni bizalmat, hogy a legtöbb adathoz nem lehet hozzájutni.}
+
+BGY: Mert üzleti titkokról van szó. A magyar gyártási technológiát Takátsy Gyula fõorvos találta ki, több mint 50 éve. Olyan ügyesen, hogy nincsen szabadalmaztatva, és mégsem sikerült senkinek ellopnia.
+
+\textbf{MN: Ha ilyen nagyszerû, miért nincs szabadalmaztatva?}
+
+BGY: A magyarországi gyár tízmillió lakos ellátására van berendezkedve. Egy ekkora cég nem bírja el az európai szabadalmaztatás költségét.
+
+\textbf{MN: Azért furcsa, hogy a kormány minden erejével támogat egy ismeretlen tulajdonosi hátterû céget, az Omninvestet.}
+
+BGY: Én virológus vagyok, a tulajdonosi összetételrõl nincsenek pontos ismereteim. Régen a vakcinát mi gyártottuk az OEK elõdjében, az Országos Közegészségügyi Intézetben, csak odaadtuk az Omninvestnek, mert nekik volt a fejlesztésre 700 millió forintjuk. De ez a gyártási technológiát nem befolyásolja. Addig lehet ilyen gyorsan engedélyeztetni a vakcinát, amíg a technológia nem változik. Csak a vírust kell mindig kicserélni benne, minden más ugyanaz, mint volt tavaly, tavalyelõtt meg 50 éve. A WHO-elõírásoknak megfelelõen csak a hatékonyságot kellett megvizsgálni: elég-e a vírusmennyiség ahhoz, hogy a vakcina a kipróbálásban részt vevõ 380 embert immunizálja. Azért is támadják ezt, mert akik átálltak a szövettenyészeti és olajos adjuvánst tartalmazó vakcinára, azoknak több mint egy évig terjedõ procedúra, amíg sikerül a terméküket törzskönyveztetni. Az Omninvest is megpróbálkozott az alegységvakcinával, de abbahagyták, mert annyi pénzbe kerülne az uniós forgalomba hozatali engedély megszerzése.
+
+\textbf{MN: A 380 ember nem kevés a kipróbáláshoz?}
+
+BGY: Beoltják õket, mindegyiküket naponta megvizsgálják, majd kettõjüknek 37,5-38 fokos láza lesz, mert mondjuk nem jól fertõtlenítették az oltás helyét, és bevittek egy baktériumot is. Ha 3800 embert vizsgálnak, akkor 20 embernek lesz ekkora láza. Ugyanaz.
+
+\textbf{MN: Ha tényleg komoly társadalmi érdek fûzõdik hozzá, akkor miért nem teszik kötelezõvé az oltást? Akkor az összes felelõsség is a kormányé volna.}
+
+BGY: A rendszerváltás óta csak az életkorhoz kötött oltások a kötelezõek. Ma már senki nem emlékszik rá, hogy Magyarországon 1941 elõtt évente százezres nagyságrendben haltak meg gyerekek olyan betegségekben, amelyeket ma kivétel nélkül meg lehet védõoltással elõzni. Egyébként, ha nekem kellene kötelezõ oltást javasolni, akkor a hepatitis A elleni vakcinát mondanám. Ugyanis a mostani populációnak csak a tizede találkozott a vírussal, azaz ha behoznak egyet az országba, abból akkora járvány lesz, hogy arról koldulunk. Influenza-világjárvány csak 10-40 évente fordul elõ, viszont ha egyszer már kialakult a vírus, akkor az visszajön jövõre is meg utána is. Ha kötelezõvé teszik az oltást, akkor az utána minden évben kötelezõ volna, ami már nem oldható meg. Itt a józan észre kellene hallgatni, mert jobb félni, mint megijedni. Ha nem lesz világjárvány, akkor legfeljebb kaptunk egy oltást.
+
+\textbf{MN: Ha valaki megbetegszik influenzában, még mindig szedhet antivirális gyógyszereket. Vannak orvosok, akik például inkább ezt javasolják a terhes anyáknak, mint az oltást.}
+
+BGY: A két kapható vegyület nagyon hatékony, fantasztikus gyógyszer, életet tud menteni. Az egyikbõl nekem is van otthon készenlétben. Naponta be kell venni két kapszulát, mielõtt a láz eléri a 39 fokot, és még lázcsillapítóra sem lesz szükség. De az is biztos, hogy ezeket soha senki nem vizsgálta terheseken. És csak akkor ér valamit, ha a 39 fokot elérõ láznál rögtön elkezdik szedni: másnap már csak a betegek felénél használ, harmadnap már kidobott pénz. Nálunk most kiharcolták, hogy legyen a stratégiai gyógyszerraktárban, csak szerintem nem lesz idõ szétosztani, amikor robban a járvány. Egyébként háromszor annyiba kerül, mint a vakcina. Másrészt nem szabad megelõzésként szedni. A rezisztens vírus elõállításának legbiztosabb módja, ha a betegek családtagjait is kezeljük a gyógyszerrel, mivel bennük is szaporodik a vírus. Tavalyelõtt volt egy szezonális H1N1-járvány, és azokban az országokban - Anglia, Franciaország, Svédország, Norvégia, Hollandia -, ahol preventíve szedették a rokonokkal, januártól márciusig a vírusok 70 százaléka ellenállóvá vált a szerrel szemben. A baromfiinfluenza-járvány idején Magyarországon is elõre szedették a dolgozókkal, hatalmas szerencse, hogy nem lett egyetlen rezisztens vírus sem. Egyelõre a sertésinfluenza vírusa sem rezisztens, mert a disznókat senki nem etette antivirális szerrel. Mindenesetre a megelõzésnél nincs jobb védekezés. Az sem baj, ha a beoltott ember nem betegszik meg, mert jövõre ugyanez a vírus lesz itt megint. Amíg nem találkozik vele mindenki, nem fog megváltozni.
+
+\subsection{Névjegy}\label{nuxe9vjegy}
+
+Berencsi György az orvostudomány kandidátusa, virológus, orvosi mikrobiológus, a Semmelweis Egyetem magántanára, a Szent István Egyetem címzetes egyetemi tanára. 1966 óta máig az Országos Közegészségügyi Intézetben, majd jogutódjában, az Országos Epidemiológiai Központban dolgozik. Közben megfordult a heidelbergi Német Rákkutató Központ víruskutató intézetében, a SOTE Mikrobiológiai Intézetében és az MTA-SOTE közös kutatási szervezeténél. Egy évtizeden át õ volt a WHO nemzeti influenza-, valamint enterovírus-referencialaboratóriumának vezetõje.
+
+\textbf{Mészáros Bálint}
+
+\end{document}
+

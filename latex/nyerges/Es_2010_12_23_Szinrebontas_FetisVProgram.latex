@@ -1,0 +1,17 @@
+% -*- mode: LaTeX; coding: iso-8859-2 -*-
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin2]{inputenc}
+\usepackage[magyar]{babel}
+\begin{document}
+\author{Nyerges András}
+\title{ Színrebontás-mini - Fétis vagy program  }
+\date{2010, december 23 \thanks{ÉS LIV. évfolyam 51-52. szám} }
+\maketitle
+
+Gyakran magam is megdöbbenek, hogy régi lapokban tallózva mi kerül elém. Némelyik lelet már-már misztifikációnak tûnik, s bár a lap fejlécén ott a megjelenés (ezúttal majd hetven évvel ezelõtti) dátuma, alig hiszek a szememnek; ezt nem tegnap írták? Aztán persze rá kell jönnöm, hogy nincs ebben semmi természetfölötti: a politika szereplõibõl az azonos helyzetek reflexszerûen váltanak ki azonos habitusról árulkodó reakciókat.
+
+~Hubay Kálmán, a Nyilaskeresztes Párt helyettes vezetõje például így minõsítette a pártja szélsõséges mivoltát illetõ támadásokat a Matolcsy Mátyás-szerkesztette \emph{Magyarság Útja} nevû hetilap 1941. január 3-i számában: \textqq{Ellenfeleink nem mutatkoznak túlságosan ötletesnek. Jöttek az alkotmányellenességgel. A mát nézték és nem a holnapot. A liberális alkotmányban fétist láttak és nem gondolták meg, hogy eljön az idõ, amikor az aktív miniszterelnök is az alkotmányreform szükségességérõl beszél. Csodálatos: ma már senki sem emlegeti a mi alkotmányellenességünket, mert félõ, hogy az emberek elkezdenek gondolkozni, és érthetetlennek fogják találni, hogy miért bûn az a nyilasoknál, ami a többségi pártban kormányzati programmá vált?} 
+
+\end{document}
+

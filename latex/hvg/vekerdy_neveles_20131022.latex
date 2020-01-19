@@ -1,0 +1,84 @@
+% -*- mode: LaTeX; coding: iso-8859-2 -*-
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin2]{inputenc}
+\usepackage[magyar]{babel}
+\begin{document}
+\author{Vekerdy Tamás}
+\title{ Nevelés  }
+\date{2013, október 22 \thanks{HVG} }
+\maketitle
+
+
+\textbf{hvg.hu: Az új könyvében Petõ András módszerét dicséri, és leírja: azért, hogy ne szüntessék meg a sarlatánnak gondolt gyógyítási metódust, Petõ munkásmozgalmi dalokat énekeltetett a gyerekekkel, amikor érkezett az ellenõrzés. Most újra a kormányzattól függ a Petõ-intézet mûködése, lehet jó vége az államosításnak?}
+
+\textbf{Vekerdy Tamás}: Én régebben konzervatív liberálisnak hittem magam. Egy konzervatív sosem lehet híve az államosításnak. Ez gleichschaltolja -- Hitleri jelzõvel - az individuumokat. Olyan öreg vagyok, hogy még emlékszem a Rákosi-féle államosításokra. Ungváry Krisztiánnak a Horthy rendszer mérlege címû könyvében viszont az is elolvasható, hogy már a harmincas években a szélsõjobboldal mániája volt, hogy mindent állomosítani és centralizálni kell. A történelembõl pedig tudjuk, hogy mindig mindenki ezt akarja, amikor egyeduralomra tör egy államban. Ez elõször nagyon eredményesnek tûnik, majd ezek az országok tönkremennek. Nem véletlenül állnak jól a demokráciák a világban: a kollektivizáló erõs hatalmak, mint Hitler és Sztálin államai összeomlanak, és a folyton problémákkal, válsággal küzdõ, demokratikus országok nyernek. Egy magyar-amerikai közös értékkutatás pedig kimutatta jó néhány évvel ezelõtt, hogy az individualista társadalmakban jönnek létre hatékony közösségek. Ezeket többé-kevésbé érett személyek alkotják, szabad választás alapján, míg a kollektivista társadalmak kényszerközösségeket, álközösségeket teremtenek, amelyekre leginkább a képmutatás jellemzõ, illetve a \textqq{kaparj, kurta neked is jut} hozzáállás. Akár szocialista, akár kereszténydemokrata címszóval látják is el ezeket a rendszereket, a lényeg ugyanaz.
+
+Nincs irányított mûvészet, nincs irányított tudomány, ezért, ha elveszik ezeknek az intézményeknek a szabadságát, akkor egy idõ után elsorvadnak. Nem tudok egyet érteni a Petõ-intézet államosításával.
+
+\textbf{hvg.hu: Pénzhiányra hivatkoznak, a parlament pedig nem szavazta meg a támogatást.}
+
+\textbf{V.T.:}~Nem hiszem el, hogy nincs pénz. Ez már közhelynek számít, de ha van 83 milliárd stadionokra, akkor miért ne lenne 1-2 milliárd a Petõ-intézetre? Szerintem nem kellenek stadionok, legyenek helyette inkább grundok. Ez egy személy megalomániája. Az országnak egészen másra lenne szüksége. A nagy ellátó rendszerekbe kellene fektetni, mint a közoktatás, az egészségügy, és a szociális háló... Minden párt tudja ezt még ellenzékben, de rögvest elfelejti, amint hatalomra kerül. Legutóbb is ez történt, a közoktatásból mindjárt az elsõ kaszáláskor a legtöbbet vonták el, 67 milliárdot, ha jól emlékszem. Nem kibúvó, hogy szegény az ország. Finnország, Dél-Korea rettentõen szegény volt, amikor elhatározták, hogy nagyon sok pénzt nyomnak az oktatásba. Bejött nekik: tíz, húsz, vagy negyven év alatt gazdaságilag is megerõsödtek, az élre törtek.
+
+Finnországban például 1946-ban a pártok konszenzusával döntötték el, hogy invesztálnak az iskolákba. Így alakult ki a finn oktatási rendszer. De nem is kell ilyen messze menni, Magyarország is pokolian szegény volt az elsõ világháború után, de Klebelsberg Kunó, akit most a családja tiltakozása ellenére cégérül használ a kormányzat, nem azt találta ki, hogy kevesebb egyetemista kell, hanem alapított három új egyetemet. Nem azt mondta, hogy kevesebb gimnazistára van szükség, hanem a reál iskola (ami után csak mûszaki pályákon lehetett továbbtanulni) és a klasszikus, görög-latinos gimnázium közé (ahonnan akárhová tovább lehetett menni) bevezette a reál gimnáziumot modern idegen nyelvekkel, ami megadta a lehetõséget a szélesebb rétegeknek is a továbbtanulásra és a felemelkedésre. És ezt mondta: \textqq{Lehetetlen, hogy zárt legyen az alapfokú oktatás (4 elemi, 6 elemi, polgári, tanonciskola) 8 osztályos általános iskola kell, hogy biztosítva legyen a mobilitás!} Kevesen tudják, hogy ezt õ találta ki. Mindenben az ellenkezõjét csinálta Klebelsberg Kunó, mint a jelenlegi oktatáspolitika.
+
+\textbf{hvg.hu: Az ön nevéhez is fûzõdik az alternatív intézmények elterjedése Magyarországon. A centralizált oktatáspolitikával szembehelyezkedõ rendszernek van most keletje?}
+
+\textbf{V.T.:}~Érezhetõen megugrott az érdeklõdés 2011 óta az alternatív lehetõségek iránt. Nõ a beiratkozók száma, még ha a szülõk nincsenek is jó anyagi helyzetben, és ezekben az iskolákban hozzájárulást kell fizetni, mert a központi támogatás nem teljes körû.
+
+\textbf{hvg.hu: Mi magyarázza, hogy a pénzügyi körülmények ellenére a magyarok nyitottabbak az alternatív iskolákra? Hiába a központosító törekvés, a magyarok mentalitása individualista marad?}
+
+\textbf{V.T.:}~A rendszerváltáskor nagyon nagy igény volt az alternatívákra. Még, ha egy egész nemzet mentalitásáról nehéz is általánosságokban beszélni, azért azt már sokan megállapították, hogy a magyarokban van egy "\emph{ki, ha én nem"-}mentalitás. Minden kakas úr a saját szemétdombján. Sõt, Berzsenyi arról értekezik, hogy a környezõ népekkel ellentétben, amikor a tetõfokára ér a hangulat a táncban, az emberek nem összefogódzkodnak kólóba, reigenbe, körtáncba, hanem a legény még a leányt is eltaszítja magától, és egyedül járja.~
+
+\textbf{hvg.hu: A kötet Irigy címû fejezetében arról ír, hogy egy gyerek, ha nem hagyják kicsiként a korának megfelelõen irigynek lenni, késõbb önzõvé válik, a Verés címû fejezetben pedig leírja, hogy a náci vezetõket és a terroristákat kéjesen verték szüleik. A megalomán diktátorokat tehát a szüleik rontják el?}
+
+\textbf{V.T.:}~Minden eset egyedi, de vannak kutatások, melyek mutatnak összefüggést, Alice Miller gondosan tanulmányozta a náci vezérek gyerekkorát, és valóban kiderült, hogy ezek vert gyerekek voltak, akiket erkölcsi megfontolásból ütöttek, azzal a magyarázattal, hogy szeretetbõl teszik, és jót akarnak. Közben meg lehúzatták velük a nadrágot, hogy a csupasz feneküket ütlegeljék; ez már olyan \textqq{szexuális} adalék, a verõ lelki állapotához, ami nem csupán fizikai lenyomatot hagy egy gyerekben. Az irigység miatt leszidni a gyereket? ~Azt gondolni, hogy azért mert a homokozóban a két és fél éves fiúnk nem adja oda a vödröt a másik kisfiúnak, akkor felnõttként irigy lesz? Tévedés! Õ most a kialakuló én határait védi, amibe most még a vödör is beletartozik. Akkor lesz felnõttként irigy, ha erre ilyenkor nem volt lehetõsége.
+
+\textbf{hvg.hu: Felnõttként mit kezdhetünk magunkkal, ha rádöbbenünk, hogy a gyerekkori defektek miatt torzult a személyiségünk?}
+
+\textbf{V.T.:}~Az énerõ csodákra képes. De kell persze \textqq{a másik ember} is ahhoz, hogy magunkkal tudjunk mit kezdeni. Legyen az barát, szerelem, tanár, vagy munkatárs. Annál inkább tud mûködni a segítség, minél objektívebb. Ezért jó egy pszichológus, aki csupán vetítõvászon. A páciens gyógyítja önmagát, a gyerekeknél ez különösen jól látható. Angliában egy terápia során ötször mennek hetente a gyerekek, és másfél év alatt rendezõdnek a dolgok. Magyarországon a heti egy foglalkozás terjedt el, de még így is eredményes. A gyerek segít önmagán, a pszichológus sokszor nem is tudja, hogy miért történik a változás.
+
+\textbf{hvg.hu: Szülõként vizsgálni kell azt, hogy egy gyerekpszichológusnak mennyire van rendben a saját családi élete? Vagyis hatékony segítõ tud lenni az, aki maga is problémákkal küzd?}
+
+\textbf{V.T.:}~Egyértelmûen igen. Remek magyar gyerekpszichiáterek vannak, akiknek nincs gyerekük. György Júlia kitûnõ gyerekpszichiáter-pszichológus volt, sokak mestere, annak ellenére, hogy nem szült, és magányosan élt.~\emph{Az antiszociális személyiség}~címû Kossuth-díjat jelentõ könyve alapmû ebben a témában. Tõle tudjuk, hogy nem szabad azonosítani a gyereket a cselekedeteivel, mert akkor belekalapáljuk, hogy rossz, és elkezd azonosulni vele. Szövetségre lépünk az individualitásával, hogy a körülmények okozta negatív sodródásból kimentsük.
+
+\textbf{hvg.hu: Nehezebb a gyereket szabadabban nevelni, és úgy szeretni, ahogy van?}
+
+\textbf{V. T.:}~Igen is, meg nem is. Könnyû nem változni, könnyû nem alkalmazkodni a helyzethez, és nem figyelni a gyerek igényeire. Viszont azt is könnyû mondani, hogy azt csinál, amit akar. Egy amerikai kutatás kimutatta, hogy ugyanannyi deviáns kerül ki a két végletes nevelési módszer elszenvedõitõl. Ha mindent megszabunk, vagy, ha mindent megengedünk, egyformán könnyen lesz antiszociális, neurotikus. Középrõl kerülnek ki a harmonikus, többé-kevésbé egészséges emberek. De ez valóban fárasztó, ugyanis folyamatosan új döntéseket kell hozni. Oda kell figyelni, hogy az adott szituációban mi lenne a leghelyesebb. Például, megszabom, hogy este fél 10-re otthon kell lenni, és ebbõl nem engedek? \textqq{De apa értsd meg az egész osztály ott lesz\ldots{}.} Akkor is kötni kell az ebet a karóhoz? Vagy inkább mindig újra dönteni, odafigyelve? Ez fárasztóbb, de mégis egy ilyen viszonyban sokkal több öröme van a szülõnek is, és a gyerekek is jobban mûködnek. A lényeg, hogy legyünk jelen a gyerek életében, de a sajátunkban is.~
+
+\textbf{hvg.hu: Tehát a konzekvens nevelés tévedés?}
+
+\textbf{V.T.:}~Nem, de ez nem azt jelenti, hogy hülyeségekért büntetek. Nem állok le vitatkozni dackorszakban, vagy csak azért, mert félek a többiek véleményétõl. Miért ne húzhatná fel a kinyúlt pulóverét az új helyett, ha ahhoz van kedve. Viszont mínusz 20-ban nem engedhetem ki saruban. Vannak dolgok, amiben igenis konzekvensnek kell lenni. Kiskorban a nap ritmusához érdemes ragaszkodni, a közös étkezésekhez például. Legyenek határok, korlátok, de csak kevés: mert ha minden tilos, akkor semmi nem tilos. Egy normális kisgyerek a nap végére mocskos és szakadt. Ha gyerek új csizmát kapott, és nem keresi a legnagyobb pocsolyát, hogy átgázoljon rajta, akkor talán nem is normális, mondják a svédek.
+
+\textbf{hvg.hu: Mit csináljon a szülõ, ha mégis elveszíti a türelmét egy szituációban?}
+
+\textbf{V.T.:}~Például leguggolok a gyerekhez, megfogom a karját, és határozottan azt mondom: Nem, ezt nem! És nézek rá. Prédikálni nincs értelme. Ha jó az érzelmi kapcsolatunk a gyerekünkkel, akkor ez hat, a gyerek mindent ért.
+
+\textbf{hvg.hu: És hogy kezelje a szülõ a környezet rosszallását, ha a gyerekét olyan szabadságokkal neveli, ami másoknak visszatetszõ?}
+
+\textbf{V.T.:}~Kompromisszumokat javasolok. Tipikus esete ennek, amikor beszállunk a kisgyerekkel együtt a liftbe, ott van a szomszéd néni, és a három és fél éves gyerek nem köszön, merthogy a gyerekek ilyenkor nem szoktak köszönni. Én persze sietve köszönök, de Joli néni rosszallóan néz ránk. Kompromisszumkész vagyok, és minden érzelmi nyomaték nélkül megkérem a gyerekemet, hogy köszönj Ágikám! Ágika pontosan érti, hogy én nem haragszom rá, és ezt a néni miatt mondom. De a néni is megnyugszik, a család legalább \textqq{jól nevelt}. ~Kisgyerekként öleljük melegen, aztán, ha kamaszodik, akkor engedjük szabadon a gyereket, és az addigi ölelés fogja megvédeni a veszélyektõl, mert érzelmileg biztonságban érzi magát, és érzelmileg igényes lesz. Nem kamaszkorban kell elkezdeni a prevenciót a drogozás, a bandázás, és a kisiklás ellen, hanem kilenc hónappal a születés elõtt. Mint mondják: az elsõ 3-6 évben dõl el minden.
+
+\textbf{hvg.hu: Mintha mégis mindent fordítva csinálnánk mi szülõk, de a poroszos oktatási rendszer sem feltétlenül az életkori sajátosságokat veszi figyelembe. Miért alakult ez így?}
+
+\textbf{V.T.:}~150-250 évvel ezelõttig a világon még \textqq{mindenki} tudta, hogy mit kell csinálni a gyerekekkel. Az indiai dada, az angol nurse, és a magyar parasztasszony is. Testi érintések, ritmikus mondókás játékok. Vagy: 1904-ben például tudták a magyar iskolákban, hogy a 14 éves kor a kamaszkor kulminációs pontja, akkor szabad a legkevesebbet elvárni egy gyerektõl, mert belefárad a növésbe. Most, hiába mutatják ki az endokrinológia, neurobiológiai stb. vizsgálatok, hogy tényleg így van, a 7-8. osztályban \textqq{hozd fiam a maximumot, mert ezen múlik a továbbtanulásod}. ~
+
+A régi tanító néni azt is tudta, hogy ökölre fogott ceruzával, nagy kiterített újságpapíron lehet jól gyakoroltatni az írást. Mára összehúztuk a sorközt, tûhegyes ceruzát adunk a kezükbe, és "oda tedd be kisfiam a kis kampót, de meg ne nõjjön a sor vége felé!". Az anatómusok szerint a régi módszer zseniális volt. De az ösztönös tudás eltûnt, és még nem lépett a helyébe tudományos tudás.
+
+\textbf{hvg.hu: Miért tûnt el az ösztönös tudás?}
+
+\textbf{V.T.:}~Régen nagycsaládok éltek együtt, hagyományozódott minden. Kisgyerekkortól látták, mi történik a világban, és hogyan mûködik a természet: hogy elvetjük a sárga magot, zöld kalász lesz belõle, azt aratják, csépelik, malomba visszük, a sárga magból fehér liszt lesz, anyám gyúrja, dagasztja, keleszti, beveti a kemencébe, és kiveszi a megsült kenyeret és lángost. Most, ha azt kérdezik a gyerektõl, hogy honnan van a tej, azt válaszolja, hogy a zacskóból. Egy kicsit tájékozottabb gyerek látta a tévében, ezért azt, hogy a csöveken át folyik a zacskóba.
+
+Régen ott volt a hatalmas udvar, a nagy kert, a széles falusi utca, a patakpart, billegõ palló, megmászható fa. Egész nap rohangáltak a gyerekek. Nemrég göttingeni kutatók megállapították, hogy a kevesebb mozgás révén egyes agyi pályák sorvadtan fejlõdnek ki, ezért például: rosszabbul beszélnek a mai gyerekek, a beszéd ugyanis mozgás, izmok tucatjai vesznek részt benne. Tiszta beszéd nélkül nincs tiszta gondolkodás! Az intenzív, szuverén gondolkodásnak ugyanis a beszéd az alapja.
+
+\textbf{hvg.hu: Tehát tudomány nélkül már nem is tudunk jól nevelni?}
+
+\textbf{V.T.:}~Azért az anyai megérzés nem elhanyagolandó. Inkább ösztönösen tévedjünk, mint izgatottan kapkodjunk a könyvekhez. A viszonylag magabiztos környezet nagyon fontos a gyerek fejlõdése szempontjából. Ez meghatározza a késõbbi stressztûrõ képességét. Ez az úgy nevezett reziliencia, ami alatt azt a rugalmasságot értik, ami egy feszült állapot után engedi, hogy az eredeti állapotba térjen vissza az ember. Ez az erõ egy szoros kapcsolatot feltételez legalább egy személlyel, továbbá jól tagolt idõélményeket, jól utánozható mintákat. A kisgyerek utánzással tanul!
+
+\textbf{hvg.hu: És az iskolában mi a teendõ?}
+
+\textbf{V.T.:}~Az intézményeknek a kétezres évekbeli reziliencia-kutatások szerint az~\emph{önérzetet}~és az~\emph{öntudatot}kellene erõsíteniük. Valamiben minden gyerek kompetens. 8-9 féle intelligencia van, ebbõl az iskola csak egyetlen egyet osztályoz, annak is a tízbõl mindössze két faktorát: az értelmi intelligencia verbális, szóbeli részét (miközben a gyerekek eleve a performációban, a cselekvésben erõsebb).
+
+Ez rongálja a gyerek kompetenciaérzését. \textqq{Hülyének néznek?} A magyar iskolában a tananyag a döntõ, pedig még az eminensek is elfelejtik a bemagolt leckék minimum 70 százalékát. Azt pedig egyáltalán nem veszik figyelembe, hogy jelenlegi tudásunk szerint 8 féle intelligencia van. Lehet, hogy a matekhoz nem ért a gyerek, de gyönyörûen farag. De ez nálunk nem egyenértékû. Arra kíváncsi a tanár, amit a gyerek nem tud, boldogabb országokban ez pont fordítva van. Már Karácsony Sándor is megállapította, hogy mennyire abnormális szituáció az iskolákban, hogy \textqq{az kérdez, aki tudja, és annak kell válaszolnia, aki nem tudja}.
+
+\end{document}
+

@@ -1,0 +1,109 @@
+% -*- mode: LaTeX; coding: iso-8859-2 -*-
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin2]{inputenc}
+\usepackage[magyar]{babel}
+\begin{document}
+\author{Jancsó Miklós}
+\title{ Páros interjú  }
+\date{2011, július 31 \thanks{NOL} }
+\maketitle
+
+\begin{abstract}
+  Az idén 90 éves, világhíres filmrendezõ Garibaldi-dalt énekel Milánóban, a hatvan évvel fiatalabb televíziós újságíró a johannesburgi gettóban autótolvajokkal csavarog. Jancsó Miklós és Cseke Eszter beszélget a sajnos magyarokról, Fellinirõl és a világ megválthatóságáról.
+\end{abstract}
+
+\emph{Jancsó Miklós: Mindig örülök, ha dokumentumfilmessel találkozom. Ez az utolsó tisztességes mûfaj. Izgalmas és szomorú. A fiam operatõr, a Déli-sarkon kívül már volt mindenhol. Amikor hazajött Kongóból, ahol egy filmet forgatott, csak annyit mondott, hogy a világ leírhatatlan.}
+
+\emph{Cseke Eszter:} Vannak leírhatatlan találkozások is, amikbõl erõt lehet meríteni. Tavaly nyáron Dél-Afrikában forgattunk, Johannesburg Gomorra nevû nyomornegyedében. Fehér ember nem nagyon teszi be oda a lábát. Ott laktam tíz napon keresztül, egy gengsztercsapattal együtt ettünk, ittunk, beszélgettünk a bádogviskókban. Mindent meg akartak mutatni, boldogok voltak, hogy valaki õszintén kíváncsi rájuk. Akkor viszont már nemet mondtam, amikor el akartak vinni autót lopni.
+
+\emph{Magazin:} Hogyan sikerült megnyerni õket?
+
+\emph{Jancsó Miklós: Rossz a kérdés. Nem kell õket megnyerni. Meg kell érteni, hogy nem mások, mint mi vagyunk. Ha Barack Obama amerikai elnök lehet, akkor ez eléggé egyértelmû. Bár õt is le fogják váltani, az a sok nyilas ott sem bír magával.}
+
+\emph{Cseke Eszter:} A bizalom nagyon fontos, az életüknek egy darabkáját visszük magunkkal. Szívesen kell adniuk, különben hazug és rossz lesz a film. De egyfajta naiv bizalom bennünk is van a külvilág felé, ha nem volna, már a reptéren összecsinálnánkmagunkat. A legtöbbjük ott beszélt életében elõször fehér emberrel, kellett néhány nap, mire feloldódtak, és nyíltan tudtak mesélni a lelkiismeretrõl és a gyilkosságokról.
+
+\emph{Jancsó Miklós:Az, hogy akkor beszéltek elõször fehér emberrel, jellemzi a kommunikáció csököttségét. Van egy régi történetem arról, hogy az emberek mennyire nem értik meg egymást. Még a nyolcvanas évek elején utazott egy fiatal, ki-ha-én-nem pártküldöttség Kínába, ahol az egyik este magával Mao Ce-tunggal vacsoráztak. Körbeülték az öreget, és vidáman nyalták a seggét, amikor Mao megkérdezte tõlük: hányan vagytok, elvtársak? Az egyikük felpattant, és lelkesen kiáltotta, hogy tízmillióan, Mao elvtárs! Õ csendesen nézett maga elé, aztán megkérdezte: és melyik hotelben laktok?}
+
+\emph{Magazin:} Ma azért könnyebb lehet a filmeseknek, nem kötelezõ propagandafilmeket forgatni.
+
+\emph{Jancsó Miklós: }A világháború utáni idõszakban nem éreztem a forgatások kötelezõ jellegét. Negyvenöt után kommunista voltam, gyerekfejjel még hittem abban, hogy a világot meg lehet váltani. Arra készültünk, hogy nagy változások lesznek. Lettek is, három év múlva a szabad választások címén összesen egy jelölt volt. A rendszerváltásig nem is voltam szavazni. csekeeszter: Jobb a helyzet, ha csak a dolog technikai részét nézzük, akkor is. Kollégámmal, S. Takács Andrissal két kézikamerával dolgozunk, és olyan történetek közelébe kerülünk, ahova nagy stábokat nem engednének.
+
+\emph{Jancsó Miklós:} Azért ez egyfajta amatörizmus, aminek kétségtelenül megvannak az elõnyei. A legutóbbi filmem, az Oda az igazság végén a stáb összeállt egy csoportképre. Százhuszonhat embert számoltam össze, ez hihetetlenül sok, pedig csak egy kamarafilm volt.
+
+\emph{Cseke Eszter: }Nekünk elõnyt jelent, hogy ketten vagyunk. Egy menekülttáborbeli beszélgetéshez a háborúból néhány órája jött emberrel intim légkört kell teremteni. Valószínûleg szóba se állna velünk, ha ott lenne még hat ember, mint egy profi BBC-s film esetében. Megtanultuk a szakmát a Színház- és Filmmûvészeti Egyetemen, de úgy éreztük, ha õszintébben akarunk kommunikálni, puritánabb eszközökre van szükségünk.
+
+\emph{Magazin: }Mennyire lehet objektív egy dokumentumfilm?
+
+\emph{Jancsó Miklós:} Amikor dokumentumfilmeket csináltam,már azokban is volt koncepció, valamilyen csavar a történetben. Mindig a véleményfilmeket szerettem, az egyszerû történeteket utálom, azokból nem kell filmet forgatni, hanem le kell írni egy újságba két oldalon. A legnagyobb részük egyébként is hazugság, amit az emberek azért találnak ki, hogy elfeledkezzenek a világról, amiben élnek. Én sajnos magyarnak születtem, és ezt a világot akarom analizálni a filmjeimen keresztül.
+
+\emph{Cseke Eszter:} Miért sajnos? Bezárva érzi magát?
+
+\emph{Jancsó Miklós: }Inkább azt érzem, hogy a bõröm alatt is magyar vagyok, és ezt nem tudom soha levetkõzni. Amikor Olaszországban éltem, egyik este a milánói lakásom ablakában könyököltem, figyeltem a teret. Fiatal srácok buliztak lenn, és elkezdtek énekelni egy Garibaldi-dalt, amit én is ismertem, úgyhogy énekeltem teli torokból. Az olasz barátnõm meg rémülten nézett rám, és megkérdezte, hogy mi a fenét mûvelek, mire mondtam neki, hogy Garibaldi nagy szabadsághõs nálunk, szeretjük az indulóit. Erre a barátnõm azt mondta, hogy õk is, kivéve ezt az egyet, mert ez az olasz fasiszták dala. Az ilyen apróságok miatt nehéz kultúrát váltani.
+
+\emph{Cseke Eszter:} Amikor a Harvardon tanított, nem akart kint maradni? Több európai rendezõ is sikereket aratott Amerikában, Polanski, Forman vagy Wenders is.
+
+\emph{Jancsó Miklós: }Nem. Amerikában egyszerûen nem tudtam volna ugyanazt létrehozni, mint itthon. A Száll a kakukk fészkére zseniális film, Forman remek rendezõ, de én másmilyen vagyok. A fiatal magyar rendezõknél látom, hogy a kapcsolatok hiánya és a viccbéli hotel természete miatt nehezebb az útjuk, mint egy külföldié. Mihalkovnak sokkal könnyebb volt eljutni a világhírig, mint mondjuk Mundruczó Kornélnak.
+
+\emph{Cseke Eszter:} Ami a játékfilmeseknek hátrány, nekünk sokszor elõny: amikor Burmában és Iránban forgattunk, láttuk, hogy mennyi probléma adódhat egy amerikai vagy francia útlevéllel. Rólunk sokszor azt sem tudják, hogy létezünk egyáltalán, csak unott arccal továbbot intenek.
+
+\emph{Jancsó Miklós:} A hatvanas években meghívtak a tunéziai fesztiválra. Még nem volt diplomáciai kapcsolat a két ország között, én voltam ott hivatalosan az elsõ magyar állampolgár. Az államelnök személyesen fogadott, õ is látni akarta az elsõ arra tévedõ magyart.
+
+\emph{Cseke Eszter:} Amikor Olaszországban dolgozott, milyen nyelven beszélt a színészekkel?
+
+\emph{Jancsó Miklós:} Franciául, aztán egyre többet olaszul is.
+
+\emph{Cseke Eszter:} Máshogy rendezett franciául? Én teljesen máshogy interjúzom angolul, mint magyarul.
+
+\emph{Jancsó Miklós:} Az lehet, de én nem beszélgetek a színészekkel, hanem utasításokat adok. Azt volt nehéz megértetni velük, hogy nem beszélõ filmeket csinálok, mint például egyik nagy mesterem, Michelangelo Antonioni, akivel õk is sokat dolgoztak. Egy színész nem tud mit kezdeni azzal, amikor azt mondják neki, hogy ne csináljon semmit, csak úgy legyen. Folyton kérdezgettek, hogy mire gondoljanak, mikor bejönnek oldalról, én meg mondtam nekik, hogy a mamára, abból nagy baj nem lehet.
+
+\emph{Cseke Eszter: }Fellinirõl mondják, hogy kiborultak a színészei, mert már a forgatás kezdetén elvesztették a fonalat. Hogyan lehet a színészekrõl lehúzni a mázat, hogy tényleg önmaguk legyenek?
+
+\emph{Jancsó Miklós:}A barátaimmal szoktam forgatni. Ismernek, tudják, hogy õrült vagyok, sõt tetszik is nekik. A Kapa--Pepe filmeknél eléggé szabad kezet kaptak a színészek, a két hólyag elvonult oldalra, rögtönöztek valamit, aztán már vettük is fel a jeleneteket.
+
+\emph{Magazin:} A meztelen nõkkel azért nehezebb lehetett.
+
+\emph{Jancsó Miklós:}A meztelenség egy igazi parasztfogás volt. Az ötletet egyébként még a fõiskolán kaptam Radványi Gézától. Õ mondta, hogy a jó filmhez négy dolog szükséges, gyerek, kutya, fóka, meztelen nõ.
+
+\emph{Cseke Eszter:} Némi pénz sem árt hozzá.
+
+\emph{Jancsó Miklós:} Magyarországon nem készül olyan film, ami bevételt hoz. Az úgynevezett szocializmus alatt az állam állta a költségek nagy részét, azóta minden a pénzes emberektõl függ. Bõ évtizede elutaztam Berlinbe, ahol találkoztam egy amerikaival. Egy filmötlettel házaltunk akkoriban, a történet szerint Szent Péter lekeveredik a Földre, és beleszeret egy nõbe. Marcello Mastroiannit néztem ki a fõszerepre, de õ sajnos pont akkor halt meg, Vittorio Gassman pedig végül nem vállalta el a felkérést. Az amerikai ettõl függetlenül azt mondta, hogy ha az elsõ vagy a második filmem lenne, akkor volna rá tízmillió dollár. De rólam mindenki tudja, hogy milyen filmet csinálnék, nem biztos, hogy a profit lenne az elsõ.
+
+\emph{Cseke Eszter: }Régen szélesebb körbe jutott el a magyar film, érdekesek voltunk mint a vasfüggöny mögöttiek. Ma mindenki iráni filmet akar nézni, ott van elnyomó rezsim. Iránban elképesztõ szerencsével megszerveztünk egy interjút Dzsafar Panahival, aki valószínûleg soha többé nem rendezhet filmet. Éppen akkor jött ki a börtönbõl, házi õrizetben volt. Andris egy bérház tetején tudott felvenni vele egy rövid beszélgetést, pár óra múlva már robogtunk a repülõtérre alsónadrágba rejtett kazettával. Õ az elsõ rendezõ, akit olyan filmért csuktak le, amit le sem forgatott. Aczél elvtársék mit szóltak a Fényes szelekhez? Kíméletlen kritikája volt a rendszernek és a szocialista forradalomnak.
+
+\emph{Jancsó Miklós:}Hatvannyolcban Párizsban voltunk Hernádi Gyulával, amit ott láttunk a diáklázadások idején, inspiráló volt. Egyébként én sem értettem, hogy miért nem kötöttek bele. Aczéllal egyszer beszélgettünk, azt kifogásolta, hogy a filmjeimnek általában szomorú vége van. Mondtam neki, hogy én sem szeretem a szomorú filmeket, éppen ezért a saját filmjeimet sem nézem meg, javasolom neki, hogy õ se tegye.
+
+\emph{Cseke Eszter:} Ma is sok történet van, amit el kell mesélni. Burmában találkoztunk újságírókkal, akik kis kamerával, illegálisan filmeznek Yangoon utcáin, aztán kicsempészik a felvételeket. Így értesült a világ a Sáfrányos Forradalomról, buddhista szerzetesek megölésérõl, bebörtönzésérõl. Õk 20-25 év börtönt kockáztatnak.
+
+\emph{Jancsó Miklós:}Téma van, a világ pszichéje változott meg. A XX. századig a nem vallásos ember is hitt abban, hogy a világ megváltható, létezik olyan rendszer, ami mindenkinek ugyanolyan jó. Aztán az emberek szépen lassan rájöttek arra, hogy a világot nem lehet megváltani. Talán nincs is erre szükség.
+
+\subsubsection{Jancsó Miklós}\label{jancsuxf3-mikluxf3s}
+
+Született: 1921. szeptember 21-én Vácott. Foglalkozása: filmrendezõ. Jogi egyetemet végzett, majd színházi rendezõnek készült, végül Balázs Béla tanácsára döntött a filmek mellett. A világsikert az 1965-ben bemutatott Szegénylegények címû film hozta meg számára, amely a Csend és kiáltással és a Fényes szelekkel együtt alapjaiban változtatta meg a magyar filmmûvészetet. 1972-ben a Még kér a nép címû filmje fõdíjat nyert a cannes-i filmfesztiválon, hét évvel késõbb ugyanitt életmûdíjat vehetett át. 1987-ben a velencei fesztivál fõdíját nyerte el a Szörnyek évadjával. Tíz évig élt Olaszországban, ekkor született A pacifista, a Technika és rítus, a Róma visszaköveteli Cézárt. Kétszeres Kossuth-díjas, Budapest díszpolgára, érdemes mûvész.
+
+\subsubsection{Cseke Eszter}\label{cseke-eszter}
+
+Született: 1980. március 10-én Kolozsvárott. Foglalkozása: tévés újságíró, dokumentumfilmes. Tízéves kora óta él Magyarországon, a Vörösmarty Gimnázium drámatagozatos diákja volt, közben mûsorvezetõ a Duna TV-nél és az RTL Klubon. Jogra járt, majd Amerikában tanult két évig. A Színház és Filmmûvészeti Egyetemen kezdett el foglalkozni a dokumentumfilmezéssel, forgatott Libanonban a Hezbollahról, egyetemi évei alatt interjúzott Wim Wendersszel és Salman Rushdieval is. Fata Morgana címû dokumentumfilmjével megnyerte az Aristoteles nemzetközi rendezõi workshopot. Jelenleg a Spektrumon futó On the Spot riportereként járja a világot. 2010-ben Év médiaszemélyisége díjat kapott.
+
+\subsubsection{Ajánló}\label{ajuxe1nluxf3}
+
+Jancsó Miklós szereti a Kispált és a Belgát is, mostanában Chopint hallgat. Az édes zene mellé szociográfiai klasszikust és Tarr Béla nem könnyû filmjét ajánlja. Cseke Eszter laza francia triphoppal pihen, iráni társadalomkritikát olvas, és Ingmar Bergman lélekboncolgató világába vonul.
+
+\textbf{JANCSÓ MIKLÓS AJÁNLJA}
+
+KÖNYV - ILLYÉSGYULA: PUSZTÁK NÉPE Nélkülözhetetlen Magyarország megértéséhez.
+
+FILM - TARR BÉLA: A TORINÓI LÓ Mert jó!
+
+ZENE - CHOPIN Sokat hallgatom, édes zene.
+
+\textbf{CSEKE ESZTER AJÁNLJA}
+
+KÖNYV - AZÁR NÁFISZI: A LOLITÁT OLVASTUK TEHERÁNBAN Egy iráni tanárnõ története.
+
+SZÍNHÁZ - INGMAR BERGMAN: PERSONA Mostanában nagyon foglalkoztat a témája.
+
+ZENE - THIEVERY CORPORATION: THE CULTURE OF FEAR Mindig jólesik hallgatni.
+
+\end{document}
+

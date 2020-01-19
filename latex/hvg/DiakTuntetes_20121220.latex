@@ -1,0 +1,40 @@
+% -*- mode: LaTeX; coding: iso-8859-2 -*-
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin2]{inputenc}
+\usepackage[magyar]{babel}
+\usepackage{hyperref}
+\begin{document}
+\author{Tamás Gáspár Miklós}
+\title{ Az egész rendszert leválthatják a diákok  }
+\date{2012, december 20 \thanks{HVG } }
+\maketitle
+
+\textbf{Elõadást tartott az ELTE bölcsészkarán Tamás Gáspár Miklós csütörtök délután, a filozófus a nap folyamán korábban fórumot rendezõ diákoknak gratulált a tüntetésekhez. Késõbb az ELTE-n zajló megbeszélések résztvevõi a kormány nem támogatott szakokkal kapcsolatos csütörtök délutáni bejelentésére reagálva arra kértek minden diákot, menjen az ELTE-n zajló tanácskozásra.}
+
+"Meg kell tenni a lépéseket, hogy ez a mozgalom ne csak a középosztálybeli fiatalok önzõ mozgalma legyen. Ez a dolog csak akkor lesz teljesen morálisan elfogadható, amennyiben tovább terjed" - mondta az ELTE bölcsészkarán Tamás Gáspár Miklós.~Szerinte nemcsak az egyetemet, hanem mindent át kell alakítani.
+
+A~filozófus~késõbb a kaptalista rendszer visszásságairól beszélt, majd szólt a szellemi javak kisajátítására irányuló erõfeszítésekrõl is. "Ha egy diákmozgalom azt követeli, hogy tegyék ingyenesen hozzáférhetõvé a kulturális javakat, akkor kétféle dolgot követel: egyrészt, hogy javítsák a fehérgalléros dolgozók munkába állási esélyeit, másrészt a szellemi javakhoz való hozzáférést szélesítsék - miért ne tanulhatna mindenki fõiskolán, aki szeretne?".
+
+A kormány szerint a szellemi javakhoz való hozzáférést ki kell érdemelni. "Be kell bizonyítani, hogy óvodás kora óta mindenki jó pontokat szerez." Pedig ennek a kettõnek egyébként semmi köze nincsen egymáshoz - magyarázta Tamás Gáspár Miklós. Hozzátette, az egyetem falain belüli tekintélyviszonyokat is meg kell ingatni.
+
+A tiltakozások politikai pártoktól való függetlenségrõl megjegyezte, életében nem hallott még olyan forradalmi jelszót, hogy "szakmai egyeztetést", noha a tegnapi tüntetéseken ezt kiabálták a diákok. A tanulók követeléseinek következményeként az egész politikai rendszer is megváltozhat - hangsúlyozta a filozófus.
+
+\section{Elemezték a szerdai eseményeket}
+
+Az elõadás elõtt az ELTE Bölcsésztudományi Karán a Hallgatói Hálózat (HaHa) illetékes sejtje\href{http://hvg.hu/itthon/20121220_Az_ELTE_bolcseszkaran_gyulnek_a_diakok}{rendezett hallgatói fórumot}. A diákok többek között arról beszéltek, hogy mi történt szerda éjszaka, illetve csütörtök hajnalban a tüntetésen, késõbb pedig a Szalay utcában.
+
+A beszélgetésen az egyik felszólaló arról panaszkodott, hogy a rendõrök "nem voltak teljesen biztosak a dolgukban" tegnap este. A kérdésre, hogy a tegnap elõállított három fiatalnál késeket találtak, a beszélgetés moderátora azt válaszolta: "elõfordulhatott, hogy volt náluk valami, de ezek csak bicskák voltak".
+
+A Hallgatói Hálózat egy másik aktivistája elmondta, hogy a holnapi nap folyamán egy újabb videót készítenek majd "Gyakran ismételt hazugságok" címmel, amiben összegyûjtik azokat a "tévhiteket", amik a tüntetésekkel kapcsolatban megfogalmazódtak. Az Oktatói Hálózat egy jelenlévõ képviselõje kifejtette, "ha a hallgatók blokád alá vonnák az egyetemet, akkor a tanároknak szolidaritást kell vállalniuk".
+
+\section{Bizottság alakult a kormány bejelentése után}
+
+A kormány késõbb megjelent, csütörtök délutáni~bejelentése szerint a~korábbi híreknek megfelelõen nem lesz államilag finanszírozott képzés a gazdasági szakokon és a jogászképzésben --~\href{http://www.kormany.hu/hu/emberi-eroforrasok-miniszteriuma/hirek/dontott-a-miniszter-a-magyar-allami-osztondijas-szakokrol}{\emph{\textbf{derül ki abból a listából}}}, amelyet csütörtökön délután tett közzé az Emberi Erõforrások Minisztériuma.
+
+A bölcsész szakok közül az állam nem támogatja az andragógiát (felnõttképzés), a társadalomtudományok terén pedig a kommunikáció és médiatudomány, illetve a nemzetközi tanulmányok szakokat. Nem kaphatnak állami finanszírozást az igazságügyi igazgatási és a munkaügyi és társadalombiztosítási igazgatási szakra jelentkezõk sem.
+
+A bejelentés után az ELTE bölcsészkarán zajló tanácskozáson a hallgatók úgy döntöttek, egyelõre nem vonulnak újra az utcára, de munkabizottságot alakítottak és minden diákot az ELTE-n zajló megbeszélésre hívtak.
+
+\end{document}
+

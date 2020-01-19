@@ -1,0 +1,61 @@
+% -*- mode: LaTeX; coding: iso-8859-2 -*-
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin2]{inputenc}
+\usepackage[magyar]{babel}
+\begin{document}
+\author{Csabai Gábor}
+\title{ A Tilos mûsorkészítõi ezentúl is elmondják amit szeretnének  }
+\date{2011, január 10 \thanks{HVG } }
+\maketitle
+
+
+\textbf{Ebben a különösen alakult társadalmi, közéleti és politikai közegben továbbra is õszinte, független, igazmondó rádiót akarunk csinálni, szoros kapcsolatban a hallgatókkal. A mûsorainkban változatlanul vélemények ütköznek, de nem lesz helye köpködésnek, ostoba gyalázkodásnak és a bulvárnak -- hangsúlyozza a Tilos Rádió ügyvezetõ igazgatója, Csabai Gábor. }
+
+\textbf{hvg.hu: Világhírû lett a Tilos, többek között a a BBC is beszámolt a médiahatóság (NMHH) vizsgálatáról. ~Az NMHH sérelmezte, hogy szeptemberben az amerikai rapper Ice-T egyik számát olyan idõsávban játszották le, amikor azt 16 év alattiak is hallhatták, és az obszcén dal károsan befolyásolhatta a fiatalok erkölcsi fejlõdését\ldots{} }
+
+\textbf{\textbf{Csabai Gábor: Valójában annyi történt, hogy egy angolul magas szinten beszélõ -- ~harmincas éveiben járó, az óceánon túlra készülõ -- ~hallgató, aki egy internetes fórumon maga közölte, hogy jól érti az ún. gettó-szlenget, úgy gondolta, az Ice-T számának nincs helye a rádióban.}}
+
+\textbf{\textbf{Ezért feljelentett bennünket a médiahatóságnál, akik ennek nyomán vizsgálatot indítottak. Nem lett volna ezzel különösebbi baj, ha az akkor a parlament elé terjesztett, a sajtószabadság, a szabad véleményformálás, a virulens, színes információs világ elé nyomasztó jövõt rajzoló médiatörvény nem lett volna annyira aggasztó. Továbbá, ha a médiahatóság egy \textqq{átlagos}, szokásos levelet írt volna, nem pedig egy meglehetõsen vészjósló eljárásnak kinézõ, kilencoldalas, elképesztõ elemzést.}}
+
+Nem tagadom, megijedtünk, hiszen nagyon úgy tûnik, hogy az új médiahatóság királyság lesz az államban, és gyakorlatilag megfellebbezhetetlen, egyirányú véleményeket juttathat érvényre. A régi, sok éven át regnáló ORTT testület is szinte mindenható volt -\/- ~bár akkor még csak a rádiók, tévék tekintetében -- ám eddig azért a parlamenti pártok delegáltjainak eltérõ véleményei, szempontjai megjelentek egy-egy testületi döntést megelõzõen. Hasonlóra azonban jelenleg nem igen látszik lehetõség, annyira egyöntetû a testület.~
+
+\textbf{\textbf{Úgy gondoltuk, hogy ítélkezzen a nyilvánosság, a közvélemény, ezért minden kommentár nélkül feltettük honlapunkra a médiahatóság levelét és az ügyben született válaszlevelünket, amelynek megfogalmazásában a TASZ médiajogásza volt segítségünkre. Mi egy közösségi rádió vagyunk, szimbiózisban élünk a hallgatóinkkal, a bennünket szeretõ emberekkel, akiknek joguk van megtudni, mi történik velünk, körülöttünk. Azóta a fél internet ezen vitatkozik, elemzi és kommentálja az esetet, ami azt jelzi, hogy a kérdés valóban foglalkoztatja az embereket, véleményük van a dologról.~}}
+
+\textbf{hvg.hu: Önöknek és Ice-T-nek is jól jöhetett egy kis ingyenreklám, hála a médiahatóságnak\ldots{}~}
+
+\textbf{Cs. G.:} Az ilyen reklámból köszönöm, nem kérünk, bár tényleg ez lett a történtek hozadéka, amelyre nyilván senki nem számított. Igazságtalannak és eltúlzottnak tartom az ügyet, ugyanis pont a Tilos Rádió lenne az elsõ, aki fellépne a gyerekbántalmazás ellen, ha szükséges. A médiatörvényben természetesen pozitív és méltányolandó törekvésnek tekinthetõ a fiatalkorúak védelme, de azt gondolom, hogy ott kell védeni õket, ahol valóban veszélyben vannak a gyerekek, a kiskorúak. A mi esetünkben meggyõzõdésem, hogy a médiahatóság intézkedése eltúlzott, elhibázott. Ugyanis a dal szövegét kevesen érthetik, a mi nyilatkozatunk, \textqq{ellenlevelünk} is erre fókuszált. Alapos kutatás áll az érveink mögött. Hallgatóink körében nemrégiben komoly felmérést végeztünk, több mint 1100 emberen lefuttatott mélyinterjú keretében. Maga a Medián igazgatója is elismerõen nyilatkozott a teljesítményünkrõl.~
+
+\textbf{hvg.hu: És mit állapított meg a felmérés?~}~
+
+\textbf{Cs.G.:} Sok mindenre kitértünk, a rádió és a hallgató viszonyától kezdve a demográfiai adatokra, az egzisztenciális viszonyokra, a kulturális fogyasztásra.~ A mintegy 140 oldalasra sikerült kutatásból kiderült, hogy gyerekek nem hallgatnak bennünket.
+
+\textbf{\textbf{Ha figyelembe vesszük, hogy egyéb, releváns kutatások szerint a fiatalkorúaknak mindössze 1,1 százaléka rendelkezik magasabb szintû nyelvismerettel, nyelvvizsgával, akkor kiderül, hogy a Tilos Rádió semmiképp sem veszélyes erre a korosztályra. Meglepõ módon a médiahatóság levelébõl is egyértelmûen kiolvasható, hogy saját szakértõik sem tartják valószínûnek, hogy speciális nyelvismeret hiányában a fiatalkorúak megérthetik az ominózus dal szövegét.~}}
+
+\textbf{hvg.hu: Akkor viszont a médiahatóság miért írta közleményében,~~hogy ~\textqq{felesleges bármiféle hatósági önkényt keresni az ellenõrzés mögött, nem történt más, mint a törvény megfelelõ~ alkalmazása. A kiskorúak médiával szembeni védelme Európa-szerte kiemelt téma.}~~~}
+
+\textbf{Cs.G.:} Kétségtelen, ha van egy bejelentés, akkor a dolgot ki kell vizsgálni, le kell futtatni. A médiahatóság azonban túlzásba esett, már akkor le kellett volna állítaniuk az egész ügyet, amikor a szakértõjük kimondta, hogy a kiskorú gyerekek nem érthetik a dal szövegét. Ám azzal, hogy mégis elküldték nekünk kilencoldalas, mindenre kiterjedõ levelüket, az azt jelenti, hogy nem vették észre, vagy -- attól tartok -- nem vették figyelembe a saját szakértõik véleményét, és mindenáron vizsgálatot akartak.~
+
+Távolról sem vagyok médiaszociológus, elemzõ, de véleményem persze azért van. A Tilos Rádiót ugyan nem hallgatják, de a nagy, kereskedelmi tévék bulvármûsorait, akciófilmjeit annál többen nézik és értik is a kiskorúak.~ Több gyermeket neveltem fel, s magam is elképedek, hogy pl. a legkisebb fiam, négy-öt éves koráig több gyilkosságot, erõszakot és pornográfiát látott, mint én egész életemben. Az utcai újságosbódéktól a tévéig mindenhonnan csak az erõszak és a szexualitás zúdul a társadalomra. Én valahol arrafelé keresném az ifjúságra veszélyes tartalmakat.~
+
+Ugyanakkor meglehetõsen egyedül álltam és állok azzal a véleményemmel, hogy például a híres Macskafogó c. rajzfilm sok szempontból horror. Vidám köntösbe öltöztetve, helyes, vicces állatfigurákkal mutatja be az erõszak és kínzás minden válfaját, az elevenen megfõzéstõl, fojtogatáson át a szitává lövésig. Teljes a paletta. Na, most ehhez képest az a \textqq{törvénysértés vélelem}, mely szerint mi, a Tilos Rádió lennénk azok, akik károsan befolyásolják a gyerekek erkölcsi fejlõdését, ez egy olyan téves, félrement logika, amelyre nehéz szavakat találni.~
+
+\textbf{hvg.hu: A Tilos Rádiót egyébként eddig is zaklatta idõnként a korábbi hatóság, az ORTT. Az utódszervezet ön szerint szigorúbb lesz?~~\textbf{~}}
+
+\textbf{Cs.G.:} ~Errõl sokat beszélgetünk mostanában. Vannak, akik már-már apokaliptikus hangnemet ütnek meg, de a legenyhébb is, amit látok magam körül, hogy teljes a bizonytalanság. A volt ORTT is elég aggályos volt, lévén, hogy a székekben kizárólag a parlamenti pártok képviselõi ültek, bár azt távolról sem vitatom, hogy a testület szakemberekbõl állt. Például anno, az FKGP által delegált, Náhlik Gábor sem nagyon kedvelte a Tilos Rádiót, illetve sok esetben a kétségkívül komoly tapasztalattal bíró médiaszakember, Szalai Annamária sem titkolta nemtetszését velünk kapcsolatban. Ám az õ véleményük mellett korábban megjelentek ettõl eltérõ szempontok, nézetek és megközelítések, tehát viszonylag demokratikus grémiumról beszélhettünk. A jelen helyzetben, amikor csupán egyetlen párt kezében lévõ médiahatóság fog dönteni mindenrõl -- csak drukkolni és reménykedni tudunk.~
+
+\textbf{hvg.hu: Milyen lefedettséggel bír a rádió?}~
+
+\textbf{Cs.G.:} ~Fõ mûsoridõben -- nálunk ez a reggeli órákat és a délelõttöt jelenti -- nagy valószínûséggel mintegy ötezren hallgatnak bennünket, az internetes forgalmunk pedig az elmúlt napokban olyannyira megnõtt, hogy az épp most fejlesztett szerverünk is \textqq{kifeküdt}.~
+
+\textbf{hvg.hu:~ Lesz változás az idén?~}~
+
+\textbf{Cs.G.:} Továbbra sem szólunk bele a mûsorok szerkesztésébe, tartalmi elemeibe, a mûsorkészítõk teljes autonómiát élveznek, ugyanakkor sokat beszélgetünk, vitatkozunk egymással, a belsõ levelezési listán élénk forgalmat bonyolítunk. Tudjuk és bízunk benne, hogy rádiósaink felelõsségteljesen viszonyulnak közösségünk, a hallgatók és a rádió felé, és nem tesznek olyat, ami megfontolatlan és nem kellõen józan, s nem veszélyeztetik a rádió mûködését. Igen, ez lenne a mostanában sokat emlegetett öncenzúra, amely önmagában még nem ördögtõl való. Felkészült, mondanivalóval bíró, ám a médiatörvényben kodifikáltakkal is tisztában levõ mûsorkészítõink ezentúl is el fogják mondani mindazt, amit szeretnének.~
+
+Az utóbbi hónapok azért felrázták a rádiót. Érezhetõen megpezsdült az élet a stúdiók táján: új mûsorok, mûsorkészítõk jelentkeznek, és örömünkre régi \textqq{nagy nevek} is újra csatasorba állnak. Egy ideje ismét mûsort készít Bodóky Tamás, az oknyomozó újságíró, visszatért Simó György és Superman, a 98 MHz-es korszak két legendája, s hamarosan újra az éterben halljuk Pálinkás Szûcs Robertet is.~
+
+A rádió megõrzi politikai függetlenségét, hiába is próbálnak bennünket becsatornázni, beskatulyázni egyik vagy másik politikai párthoz, ideológiához, mi nem tartozunk sehová. Alapvetõen nem szeretjük és kerüljük is a tisztán politikai mûsorokat, mert a közéletben, a társadalomban rengeteg fontos dolog van -- a kisebbségek helyzete, a romaintegráció, a fogyatékosok gondjai, az energia- és környezettudatos gondolkodás, és még sorolhatnám -- amelyek szinte alig jelennek meg máshol a médiában. A Tilos Rádiónak civil küldetése van, s a magunk olykor keresetlen, közvetlen módján mégiscsak a demokráciát építjük. ~
+
+
+\end{document}
+

@@ -1,0 +1,29 @@
+% -*- mode: LaTeX; coding: iso-8859-2 -*-
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin2]{inputenc}
+\usepackage[magyar]{babel}
+\begin{document}
+\author{Stephanie Hegarty}
+\title{ The myth of the eight-hour sleep  }
+\date{2013, április 9 \thanks{BBC http://www.bbc.co.uk/news/magazine-16964783} }
+\maketitle
+
+
+\textbf{When segmented sleep was the norm}
+
+\begin{itemize}
+\item
+  "He knew this, even in the horror with which he started from his first sleep, and threw up the window to dispel it by the presence of some object, beyond the room, which had not been, as it were, the witness of his dream." Charles Dickens, Barnaby Rudge (1840)
+\item
+  "Don Quixote followed nature, and being satisfied with his first sleep, did not solicit more. As for Sancho, he never wanted a second, for the first lasted him from night to morning." Miguel Cervantes, Don Quixote (1615)
+\item
+  "And at the wakening of your first sleepe You shall have a hott drinke made, And at the wakening of your next sleepe Your sorrowes will have a slake." Early English ballad, Old Robin of Portingale
+\item
+  The Tiv tribe in Nigeria employ the terms "first sleep" and "second sleep" to refer to specific periods of the night
+\end{itemize}
+
+Source: Roger Ekirch
+
+\end{document}
+

@@ -1,0 +1,36 @@
+% -*- mode: LaTeX; coding: iso-8859-2 -*-
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin2]{inputenc}
+\usepackage[magyar]{babel}
+\begin{document}
+\author{anonim}
+\title{ Hungary PM Viktor Orban rejects IMF loan terms  }
+\date{2012, szeptember 6 \thanks{BBC } }
+\maketitle
+
+
+Hungarian Prime Minister Viktor Orban has rejected as unacceptable the conditions attached by the International Monetary Fund (IMF) to a new 15bn-euro (\pounds12bn; \$19bn) loan.
+
+On his Facebook page, he said the list of the loan terms "contains everything that is not in Hungary's interests".
+
+Mr Orban said this included pension cuts and the withdrawal of a tax on banks.
+
+He said his government would present an "alternative negotiation proposal".
+
+The IMF has not publicly commented on Mr Orban's remarks.
+
+The centre-right government in Budapest first announced that it would seek a new loan last November, backtracking on tough, anti-IMF rhetoric in the past, the BBC's Nick Thorpe in Budapest reports.
+
+Talks began but collapsed almost immediately, our correspondent says.
+
+Since then, negotiations have resumed, and Mr Orban told reporters as recently as Wednesday that negotiations with the IMF, as well as the European Union, were on schedule.
+
+Hungary's economy is now in recession, although Budapest has been able to keep financing itself through bond sales.
+
+The government has said it is seeking a precautionary IMF loan for emergency funds.
+
+In 2008, Hungary was given a 20bn-euro standby loan to prevent it having to default on its debts.
+
+\end{document}
+

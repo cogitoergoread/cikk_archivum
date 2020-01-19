@@ -1,0 +1,81 @@
+% -*- mode: LaTeX; coding: iso-8859-2 -*-
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin2]{inputenc}
+\usepackage[magyar]{babel}
+\begin{document}
+\author{Tamás Gáspár Miklós}
+\title{ A modernség öntudata - 200 éves 'A szellem fenomenológiája'  }
+\date{2007, augusztus 29 \thanks{NSZ } }
+\maketitle
+
+Georg Wilhelm Friedrich Hegel (1770-1831) neve nem olvasható gyakran az újságban. A magaskultúra presztízsének hanyatlásával minden feszesen szervezett, tekintélyt parancsoló írás nehezen jut el az olvasókhoz, a régebbiek és bonyolultabbak még nehezebben.
+
+Mint Kis Pippin vagy Vak Béla idején - és ahogyan ezt Alasdair MacIntyre majd' harminc éve megjósolta -, az írástudás tekintetében sötét kontinensen csak egy-egy aprócska monostor ablaka pislákol, ahol ügybuzgó és jámbor aszkéták másolják az ókori kéziratokat, és fönntartják az artikuláltan használt nyelv emlékét. Ma õk tudósok és kutatók, nem szerzetesek. De más különbség is van: a modernség szellemi emlékmûveit gondozó és értelmezõ tudósok kultúrájának ugyanaz a gyökere, mint az írástól iPoddal és p3-mal elválasztott, fájlmegosztó, open source- és free software-használó, copyleft-mozgalmár ifjúságénak, míg a régi kolostorok, remetelakok parányi szigetecskék voltak a tõlük idegen pogányság, a Barbaricum írástudatlan tengerén.
+
+Amikor \emph{\emph{A szellem fenomenológiája}} elõször megjelent 1807-ben, Immanuel Kant már három éve halott volt, halott volt a francia forradalom is. Kezdetét vette a modernség elsõ nagy válsága, amelyet romantikának nevezett az utókor.
+
+Hegel a maga hõsies módján kimaradt ebbõl a válságból. Pedig szellemi elesége hasonló volt a romantikusokéhoz, mindenkinél mélyebben értette azt, amit annak idején "gótikus"-nak neveztek, Jacob Boehme misztikáját, Johann Georg Hamann nyelvfilozófiai Kant-kritikáját, mindazt, amibõl a fölvilágosodás tizenkilencedik, majd huszadik századi elutasítása lett. Hegel nem volt fölvilágosító és nem volt romantikus.
+
+Ahogy ifjúkori barátja, Friedrich Hölderlin írta a "Germaniá"-ban: "...nem maradhat titok tovább / a kimondatlan immár, / mivel régóta rejtve van... / Háromszor írd körül, / de maradjon kimondhatatlannak is, / ó, ártatlan, ahogyan itt áll." (Lator László fordítása.)
+
+Hegel filozófiai ifjúságának két nagy krónikása, Wilhelm Dilthey és kései ellenfele, Lukács György, megegyezik abban, hogy a német filozófusnak a keresztyénséggel és a - brit és francia - modernizáló átalakulással kellett megmérkõznie, hogy \emph{\emph{A szellem fenomenológiája}} megszülethessék. De nem õ volt az elsõ, hanem Kant, aki mindezen keresztülküzdötte magát. Õ volt az elsõ, aki az evangéliumi üzenetet kihámozta intézményes pólyáiból - abból, amit Hegel késõbb "pozitivitás"-nak nevezett -, és õ volt az elsõ, aki az öröknek és organikusnak tetszõ hierarchikus burokból kifejtette a szabad individuumot, akinek az érvényes megismerésre való képességét a teremtés és önteremtés, a "poézis" határáig vitte el.
+
+Ugyanakkor Kant volt az, aki a szabad egyéniségnek új intézményes biztosítékokat mutatott - nem az öröklötteket és származékosakat, hanem az ész ítélõszéke elõtt megálló érvényeseket (persze ezek akkor érvényesek, ha a szabadság posztulátumait már elfogadtuk) -, amelyeket az emberiségnek még meg kell teremtenie. Innen származnak levezetett fogalmaink ("alkotmányosság", "jogállamiság"), amelyeket mind Kant szintézisének köszönhetünk a liberális és a klasszikus-republikánus hagyomány között.
+
+\emph{\emph{A szellem fenomenológiája}} elõtti Hegel - sokáig kéziratban maradt korai írásaiban - Jézust tekintette a szabad individuum legfõbb és legigazabb metaforájának: itt úgy testesült meg az örökkévaló, hogy története, életrajza lett.
+
+A szabad individualitás nem elv, hanem história.
+
+A tradíció nem tévedés, hanem elõtörténet.
+
+A mítosz nem ámítás vagy ármány, hanem ártatlan mindentudás.
+
+A szent nem káprázat, hanem a legmagasabb ésszerûnek a fátyla.
+
+Sokkal késõbb írja Hegel (\emph{\emph{Vallásfilozófiai elõadások,}} 1821-1831): "A kultusz révén az ember ezt a legmagasabb rendû, abszolút élvezetet {[}az Istennel való egyesülést{]} szerzi meg magának. A kultusz ebben a tekintetben érzés; a magam különös, szubjektív személyiségével veszek részt benne, hogy magamat mint ezt a különös személyiséget Istennel egynek tudjam, hogy magamat az igazságban tudjam - és igazságom csakis Istenben van -, hogy magamban Istennel egyesüljek. A kultusz elõföltételezi Isten kibékülését az emberrel..." (Zoltai Dénes fordítása, 2000, 103.)
+
+Ehhez a kibéküléshez hosszú út vezetett. \emph{\emph{A szellem fenomenológiája }}szerint ilyen béke nincs: a különös, a szubjektív személyiség tragikus. "Ez a \emph{\emph{boldogtalan, magában kettévált}} tudat tehát, mivel lényegének ezt az ellentmondását \emph{\emph{egyetlen}} tudatnak érzi, kell hogy az egyik tudatban mindig bírja a másikat is, s így mindegyikbõl közvetlenül ismét kiûzessék, amikor úgy véli, hogy gyõzött és az egység nyugalmához jutott. {[}...{]} Ezzel harc folyik olyan ellenség ellen, akivel szemben a gyõzelem inkább alulmaradás, s egy siker elérése inkább annyi, mint elvesztése ellentétében. Az életnek, az élet létezésének és cselekvésének tudata csak fájdalom e létezés és cselekvés miatt, mert benne csak ellentétének mint a lényegnek, valamint saját semmisségének tudatát találja." (Szemere Samu fordítása, 3. kiadás, 1979, 113-114.)
+
+A modern egyéniség kialakulása a boldogtalan szkepszisen és a végletes szubjektivizmuson át halad. Az individuum racionalitása nincs jó viszonyban az általánossággal. "A szívnek az emberiség javáért való dobogása - írja Hegel - átmegy ezért az õrült önhittség tombolásába, a tudat dühébe, hogy fönntartsa magát pusztulásával szemben, mégpedig azáltal, hogy kiveti magából a fölfordultságot, amely õ maga, s ezt igyekszik valami másnak tekinteni és kimondani. {[}...{]} A tudat ebben az õrületében azt mondja, hogy az \emph{\emph{egyéniség }}az, ami megõrjít, és ami a fölfordított..." (Uo. 194.) Ez az önhittség, ez a téboly ("a szív törvénye") magyarázza, hogy miért nincs Hegelnek etikája, miért hiányzik különben teljes rendszerébõl éppen az erkölcstan.
+
+Ugyanis Hegel számára a társadalmiságnak mint objektivitásnak egyszerûen "igazságtalanságként" és "elnyomásként" való fölfogása kezdetleges. (Tehát ebben is Goethe - és Marx! - társa Hegel, nem a Schilleré, a Kleisté vagy a Büchneré.) Az objektivitás külsõdleges - erkölcsi - elítélése félreismeri a társadalom természetét, és különösen a szabad individuumok versengésébõl összeálló, produktív, növekvõ, fejlõdõ s ennek folytán tisztán démonikus (modern) társadalom történeti dinamizmusát. Hegel fölfogása a Fausté: a jót, azaz a gazdagságot, az adottságok és lehetõségek bõségét, amely egyedüli kezese a szabadságnak (nem \emph{\emph{Az örök béke}} univerzális-republikánus "alkotmányossága") csak a Gonosszal kötött egyezség teszi lehetõvé. A kárhozat a szabadság, a fejlõdés - és az örök ifjúság - ára.
+
+"A mûveltség és valóságbirodalma" c. fejezetben kikacagja "a gúnykacaj{[}t{]} a létezésen és az egésznek zavarosságán és önmagán" (uo. 270.), kikacagja a liberális moralizálást, s akárcsak Marx késõbb, akkor már inkább a tõke gyarapító-szaporító-tágító ördöngösségét veszi pártfogásába, mert ez legalább cselekvés, Goethe és Hegel szerint az emberi lét alfája és ómegája. A moralistával szemben Hegel az epikust magasztalja: "A \emph{\emph{dalnok}} {[}a rhapszodosz{]} az egyéni és valóságos, aki mint e világ szubjektuma megalkotója és hordozója ennek a világnak." A görög istenek "az örök szép egyének, akik saját létezésükben nyugodva, nem esnek a mulandóság és idegen hatalom alá." (Uo. 370-371.) A görög istenek egyrészt különös, egyedi szubjektumok, másrészt az általánosság megtestesítõi, ezért, amit "magasabb nyelven" (uo. 372.) "a dalnok" mondhat róluk, az tragikus. Itt a görög tragédia még az evangéliumon is fölül, közvetlenül készíti elõ a filozófiát, "az abszolút fogalmat", amelynek nyitánya \emph{\emph{A szellem fenomenológiája.}}
+
+A könyv belsõ szerkezete más Goethe-mûvekre is emlékeztet, jelesül a Wilhelm Meister-regényekre. Hegel itt ("mint író") nem tesz különbséget "történet" és "történelem" között. A modernség démonikusságára - arra, hogy csalfa indítékoktól megindítva a büszke, önálló emberi szubjektivitás valami tõle idegennek adja oda magát, s az õ személyiségének holt matériájából épül a társadalom, amely nõ, gazdagszik, elkülönbözõdik és változik, s amelynek objektív jellegét nem érti, legföljebb káromolja és vakon lázad ellene - õ nem keres és nem kínál vigaszt, a tragikum ellentételéül nem ad mást, csak magát a filozófiát. Ez \emph{\emph{A szellem fenomenológiája.}}
+
+Friss. Halhatatlan. Gyönyörû.
+
+\section{A buszvezetõk sztrájkja}\label{a-buszvezetux151k-sztruxe1jkja}
+
+De ahol a \textqq{baloldal} jobbra áll Mrs. Thatchertõl, ott a dolgozók majd a dolgozókat szidják, mert nem juthatnak el az ótvaros munkahelyükre, hogy ott béketûrõen és lojálisan kínlódjanak és unatkozzanak.
+
+Belehallgattam az ún. \textqq{baloldal}-hoz a jelek szerint \textqq{közel álló} rádióállomás reggeli mûsorába, ahol a BKV buszvezetõinek a küszöbön álló munkabeszüntetésérõl elmondták az összes rendelkezésre álló reakciós közhelyet, amely még a Horthy-korszakban is kiverte volna a biztosítékot.
+
+No persze: a Horthy-korszakban még volt (legális, féllegális és illegális) baloldal, most meg gyakorlatilag nincs. Csak baloldali \textqq{érzelmû} emberek vannak, akiknek se szervezetük, se képviseletük, se koherens világnézetük. (\textqq{Baloldalin} nem egyszerûen olyan személyt értek, aki Orbán Viktor nevének hallatán elkezd hörögni.)
+
+Elmondták -- a részben profi, részben amatõr -- betelefonálók, részben a rádiósok maguk, hogy \textbf{1.} a buszvezetõk sztrájkja beletartozik a jobboldal \textqq{forró õsz}-stratégiájába (rágalom), \textbf{2.} a fogyasztók (\textqq{az utazóközönség}) érdeke az elõbbrevaló (demagógia: az utazóközönség zöme alkalmazottakból áll, akiknek érdeke a bérnövekedés irányában kifejtett nyomás), \textbf{3.} a szakszervezeti vezetõk sokat keresnek (politikai manipuláció: kompromittáljuk a dolgozók érdekében föllépõ intézményt -- a szakszervezeti vezetõk fizetésérõl több szó esik a magyarországi sajtóban, mint a topmedzserek milliárdjairól és a nagytõkések extraprofitjáról), \textbf{4.} a BKV túl sok \textqq{szellemi dolgozót} foglalkoztat, õket kell elbocsátani, akkor majd jut \textqq{bérfejlesztésre} (értsd: béremelésre) a \textqq{fizikaiak} számára (az \textqq{improduktív munka} elleni, picinykét náci vagy Khmer Rouge beütésú propaganda), \textbf{5.} a balközeli rádió szerint a BKCV szakszervezeti vezetõi ördögi intelligenciával a tanévkezdés napjára idõzítették a sztrájkot, pedig nem (az \textqq{oszd meg és uralkodj} taktika tipikus esete).~~
+
+Ámde mindez semmi: ugyanennek a rádiónak az elõzõ délutáni, népszerû és nagy hallgatottságú mûsorában a nagy tekintélyû mûsorvezetõ brutálisan letorkolta~ a médiaügyetlen munkajogászt, amikor megpróbálta kifogásolni azt, hogy 1. a BKV vezetõsége, pardon, menedzsmentje -- teljesen illegálisan -- összegyûjti a sztrájkra készülõ dolgozók személyi adatait, aminek nyilván kihatása lesz, lehet az illetõk további elõmenetelére nézve; szerény nézetem szerint ez példátlan aljasság, 2. hirdetésekben toboroz sztrájktörõket.
+
+Az Európai Unió nyugatabbra esõ tagországaiban ez úgy föstene, hogy a szakszervezetek gyûjtik össze (szintúgy illegálisan -- de nem vagyunk semlegesek) a sztrájktörõk adatait, ezeket feketelistára teszik, s ha az ilyen sztrájktörõt valahol, bárhol másutt alkalmaznák, ott azonnal tiltakozó sztrájkot szokás, kell meghirdetni. (A gyöngébb -- a kizsákmányolt, elnyomott -- félnek többet szabad, a kompenzáció egyenlõségi elvének értelmében.)
+
+A \textqq{baloldalinak} hírlelt médiákok zömmel a tulajdonos és a sztrájktörõ mellett szállnak síkra (részleges kivétel: Szöllõsi Ferenc, Népszava), \textqq{baloldaliságuk} kimerül az országházi ellenzékkel szembeni idioszinkratikus utálatukban -- még csak üres, jelképes gesztusokat se tesznek az uralkodó osztállyal szemben, hogy politikai identitásukat (szimbolikus területfoglalási célzattal) megerõsítsék.
+
+A közönséget még manipulációra se méltatják (a kiüresedett szociáldemokrácia másutt megszokott, megunt modorában), a polgári demokrácia melletti elkötelezettségük pedig kimerül az eljárási szabályok védelmében, de még ez is megsántul, ha a tõke (vagy mint jelen esetben: a tõkés állam) szent kelyhébõl oda is csöppenhet, ahová a neokonzervatív etikett szerint nem illik csöppennie.~
+
+Nem csodálkozunk rajta, hogy az álbaloldali médiákok kollektív sztrájktörõként -- tehát a dolgozó nép öntudatos ellenségeiként -- lépnek föl, hiszen a két legjobb kereskedelmi rádió \textqq{zöld} (\textqq{környezetvédõ}) mûsorainak fõ szponzorai a paksi atomerõmû és az országos villamossági tröszt. Ez olyan, mintha az esti mesét a pedofilok nemzeti szövetsége támogatná anyagilag.
+
+Azon már inkább lehet csodálkozni, hogy ezt a közönség simán lenyeli.
+
+Evvel a közönséggel sikerült elfeledtetni, hogy amikor fogyasztóként, ügyfélként (utasként) szenved el kellemetlenséget osztályos társainak akciója miatt, akkor tudnia kell, hogy egyben bérmunkás is (a buszon és a boltban se szûnik meg bérmunkásnak lenni, sõt: éjjel, álmában se), és érdeksérelme egyben (közvetve) az õ érdekében folytatott harc is. Ezt valaha még milliók tudták.
+
+Ha az irányított közvélemény fölszabadulna a manipuláció uralma alól -- s például átlátna a szakszervezetek elleni szakadatlan propaganda silányságán -- , akkor a BKV durva, kíméletlen taktikája elleni tiltakozásul nemcsak a buszvezetõk egynegyede szüntetné be a munkát pár órára, hanem leállna a villamos, a troli, a metró, a fogaskerekû, a HÉV, az elõvárosi vasút is, a munkakezdésrõl lemaradt dolgozók megkapnák aznapra a teljes fizetésüket, a gyerekek meg -- gyalog! -- kimennének a szigetre vagy elmennének moziba, könyvtárba iskola helyett.
+
+Szép volna, helyes és kellemes.
+
+De ahol a \textqq{baloldal} jobbra áll Mrs. Thatchertõl, ott a dolgozók majd a dolgozókat szidják, mert nem juthatnak el az ótvaros munkahelyükre, hogy ott béketûrõen és lojálisan kínlódjanak és unatkozzanak.
+
+\end{document}
+

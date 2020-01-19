@@ -1,0 +1,38 @@
+% -*- mode: LaTeX; coding: iso-8859-2 -*-
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin2]{inputenc}
+\usepackage[magyar]{babel}
+\begin{document}
+\author{Esterházy Péter}
+\title{  Kis, magyar, akadémikus kérdés }
+\date{2011, május 6 \thanks{ÉS LV. évfolyam 18. szám} }
+\maketitle
+
+
+Lehetséges, hogy elkerülte a figyelmem, de eddig egyetlenegy mondatot, magyarázatot, okot, indokot vagy akár álindokot nem láttam, hallottam a kulturális kormányzat(om) részérõl, mért a Makovecz-féle Magyar Mûvészeti Akadémiát részesítette kitüntetõ figyelmében (vette bele még az alkotmányba is, adott neki pénzeket) a Magyar Tudományos Akadémián belül, önálló társult egységként mûködõ Széchenyi Irodalmi és Mûvészeti Akadémiával szemben.
+
+
+Az alapító Kosáry Domokos professzor úr elgondolása az volt, hogy vegyük föl az 1949-ben megszakadt szálat (akkor számolták föl az Akadémia széptudományi alosztályát), tudomány és mûvészet fogjon ismét össze, ne feledkezzünk meg mintegy intézményesen sem olyan akadémiai elnökökrõl, mint Arany János és Kodály Zoltán. Ebbe a hagyományba lépett be a SZIMA. Az MMA-t létre hívó magánkezdeményezés is nemes célokat tûzött maga elé. Nem érteni a, mondjuk így, aszimmetrikus eljárást a két intézménnyel kapcsolatban.
+
+
+Én több országban vagyok akadémikus, tagságaimat inkább játéknak tekintem (és a játékot komolynak), munkámhoz, elõmenetelemhez ezek nem tartoznak szorosan, tehát nem személyes okokból kérdem a slágerrel, \textqq{hogy õ miért és én miért nem}. Mert jó volna tudnia a közvéleménynek, milyen elvek mûködtetik a kormány kulturális elképzeléseit.
+
+
+Tisztelettel kérdem tehát dr. Réthelyi Miklós miniszter urat, mint ezen elképzelések felelõsét, mért? Mondjuk, mért degradálják ily módon az MTA-t? Azt nyilván nem gondolhatom, hogy akár a hagyomány ápolása általában, akár a fentebb említett hagyomány konkrétan ellenükre volna. Azt sem gondolhatom (nyilván), hogy találtak volna olyan épeszû mércét, amely szerint emez akadémia tagsága (mondjuk Kurtágtól Kocsis Zoltánig, Lator Lászlótól Nádasig, vagy, hogy nagy halottainkat rángassam ide, Határ Gyõzõtõl Szabó Magdán át Ted Hughesig, Ligeti Györgyig) könnyebbnek találtatna, mint amazé, sõt, nyilván azt sem gondolhatom, hacsak nem megsérteni akarnám a kormányzatot, hogy ilyen mércét egyáltalán keresgéltek volna.
+
+
+Még az egyébként nehezen mozgósítható rosszindulatom sem tud segíteni, hogy tán valami banális, ócska mai politikai megfontolás (sunnyogás) állna e mögött (jó akadémia, rossz akadémia, jó magyar mûvész, rossz {[}nem{]} magyar mûvész), hisz akkor nem aláznák meg így Pálinkás professzor urat, az MTA elnökét, akinek bizalmát, úgy érzem, bírhatja a mostani kormány.
+
+
+Mért?, nem jutok tovább. Miniszter úr, ha errõl egy európai mondatot hallhatnánk.
+
+
+Fogadja nagyrabecsülésem és kíváncsiságom kifejezését.
+
+\emph{E. P., magyar író}
+
+(P. s.: Hát ilyen tréfásan múlatjuk az Úr mindenek fölött õrködõ idejét a létezés magyar minõségében, ebben a mi szép, nemes és választékos életünkben, amely itt most van nekünk.) 
+
+\end{document}
+

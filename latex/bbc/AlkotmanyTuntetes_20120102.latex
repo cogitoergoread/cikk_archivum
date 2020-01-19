@@ -1,0 +1,82 @@
+% -*- mode: LaTeX; coding: iso-8859-2 -*-
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin2]{inputenc}
+\usepackage[magyar]{babel}
+\begin{document}
+\author{anonim}
+\title{ Hungarians protest against new Fidesz constitution  }
+\date{2012, január 2 \thanks{BBC } }
+\maketitle
+
+
+Tens of thousands of people have been protesting in Budapest over Hungary's controversial new constitution, a day after it came into force.
+
+The country's governing Fidesz party pushed the law through parliament in April after winning a two-thirds majority in parliamentary elections.
+
+Opponents say it threatens democracy by removing checks and balances set up in 1989 when Communism fell.
+
+The EU and US had also asked for the law to be withdrawn.
+
+The dispute has cast doubt over talks on a new financing agreement with the EU and IMF, seen as vital for market confidence in the central European country.
+
+'Darkest spot'
+
+Several centre-left opposition parties joined in the protests, held near a gala event organised by the government to celebrate the new constitution.
+
+Protesters chanted slogans denouncing the centre-right Prime Minister, Viktor Orban, and carried placards denouncing his "dictatorship" as officials arrived for the event.
+
+"Viktor Orban and his servants turned Hungary from a promising place to the darkest spot in Europe," said Socialist MP Tibor Szanyi, quoted by AFP news agency.
+
+Aspects of the new constitution and accompanying laws which have come in for criticism include:
+
+A preamble committed to defending the intellectual and spiritual unity of the nation, which experts warn could be a future source of tension
+
+The inclusion of social issues - like the rights of the unborn child, marriage between a man and a woman, and the definition of life sentences - which experts say should be left to ethical debates within society
+
+The rewriting of the electoral system, in a way which opponents say favours Fidesz
+
+But Fidesz says the new constitution, or basic law, improves the legal framework of life in Hungary.
+
+"Despite political debates we think it is an important value that for the first time, a freely elected parliament created the Basic Law," said Fidesz MP Gergely Gulyas, quoted by the Reuters news agency.
+
+Mr Gulyas co-wrote the new law and shepherded it through parliament.
+
+\section{Hungary's forint falls to record euro low}\label{hungarys-forint-falls-to-record-euro-low}
+
+The Hungarian forint has dropped to a new record low against the euro as the country scaled back a debt sale and continued talks over a bailout.
+
+The forint tumbled to 323.40 against the euro, the lowest since the 17-nation currency was founded in 1999.
+
+Thousands of Hungarians have taken to the streets in protest at the country's new constitution.
+
+The government said it now wants to strike a deal with international lenders "as soon as possible".
+
+The constitution has been a source of tension in talks with the International Monetary Fund and European Union.
+
+Hungary has been seeking a standby credit line of 15-20bn euros (\$19.5bn, \pounds12.6bn) from the IMF and EU as it runs into trouble issuing new debt.
+
+But both have both cast doubts over aid because of the new laws passed by the ruling Fidesz party, which critics say undermine the independence of its central bank.
+
+The new law allows the government to appoint more deputy governors, and Hungary's central bank governor, Andras Simor, has said the bill amounts to a takeover of the central bank.
+
+The government wants to keep interest rates low to boost growth - but Hungary's central bank increased rates for the the second month in a row in December, to 7\% from 6.5\%.
+
+Demonstrators say that other changes to the constitution harm democracy and remove the checks and balances set up in 1989 when communism fell.
+
+The EU and US have asked for the law to be withdrawn.
+
+Bond sale
+
+Tamas Fellegi, who is in charge of negotiations with the IMF and EU, said on Thursday that the government wanted to strike a deal "as soon as possible".
+
+"We are ready to negotiate without preconditions, and we are ready to discuss everything at the negotiating table," he said.
+
+The state debt agency cut its sale of 12-month treasury bills by 10bn forints from the planned 45bn forints after there were fewer bids, and the yield surged - to 9.96\% from 7.91\% at the last auction.
+
+Ratings agency Standard \& Poor's downgraded Hungary's debt to junk status in December, partly due to the changes to the constitution.
+
+Hungary was last given a 20bn-euro standby loan by the IMF in 2008 to prevent it having to default on its debts.
+
+\end{document}
+

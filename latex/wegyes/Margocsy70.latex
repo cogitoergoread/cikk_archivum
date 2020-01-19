@@ -1,0 +1,87 @@
+% -*- mode: LaTeX; coding: iso-8859-2 -*-
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin2]{inputenc}
+\usepackage[magyar]{babel}
+\begin{document}
+\author{Margócsy István}
+\title{ Irodalommal foglalkozni jó  }
+\date{ 2019, július 19\thanks{ÉS LXIII. évfolyam, 29. szám} }
+\maketitle
+
+\begin{abstract}
+  Károlyi Csaba
+
+  \textbf{Margócsy -- legalább Esterházy~\emph{Függõ}je óta fogalom. De most vicc nélkül: 70 éves lesz július 23-án Margócsy István irodalomtörténész, a felvilágosodás és a romantika korának kutatója, az ELTE nagy hírû, nemzedékeket nevelõ tanára, a kortárs magyar irodalom egyik legkiválóbb kritikusa, a~\emph{2000}~irodalmi és társadalmi folyóirat alapító szerkesztõje, akinek köszönhetõen még ma is él a rendszerváltás egyik legfontosabb folyóirata. Isten éltesse!}
+  
+\end{abstract}
+
+
+
+\textbf{-- Tegyük föl, hogy a XXII. században lesz még egyetem, magyar irodalom, magyar köztársaság. Akkor hogyan fogják vajon tanítani a jelenkor magyar irodalmát? Szerinted száz év múlva hogyan fognak tekinteni korunk irodalmára?}
+
+-- Hát, én azt gondolom, hogy sokféleképpen fognak rá gondolni, ugyanúgy, mint ahogyan mi is sokféleképpen tekintünk a régebbi magyar irodalomra. Hiszen az oktatás, az irodalomtudomány és az írók megközelítései mindig rendkívül éles ellentétben tudnak állni egymással. Például az iskolában, nem helytelenül, úgy tanítják, hogy Kazinczy a magyar irodalomnak egyik nagyon komoly alakja volt, ellenben Németh László és elvbarátai úgy tanították, hogy Széphalom a magyar irodalom vérmezeje volt, ezt az ötletet jelenleg Háy János is képviseli. Van, aki a nyelvújítást nagyon fontos, irodalmi-nyelvi-kulturális kibontakozásnak tekinti, van, aki pedig úgy gondolja, hogy a nyelvújítók tönkretették a hajdan bizonyára csudálatosan szép magyar nyelvet. Ugyanilyen sokféleséget el tudok képzelni a mai irodalom késõbbi bemutatásáról. Az utóbbi negyven év magyar irodalmi termésében ugyanis rendkívül eltérõ irányzatok hoztak létre igen kitûnõ mûveket. Egymás mellett, egymással vitában, idõnként egymással szemben. Csak nagyon elfogult, irányzatos irodalomtörténész fog tudni kiemelni ebbõl egy vagy két szerzõt, akiknek a nevével fémjelezni tudná az egész korszakot. Száz év múlva ugyanazok a problémák lesznek, mint most. Ki tekinthetõ például ma a korszak nagy költõjének? Két igen kitûnõ költõt mondok, akik nem is hasonlítanak egymásra, Tandori Dezsõ és Rakovszky Zsuzsa. Ugyanakkor a legfiatalabb nemzedék õket is, mint az összes 60 év fölötti költõt, bizonyos gyanakvással nézi. Kinek lesz igaza?
+
+\textbf{-- Sokszor hangoztattad, hogy a költészet ma is ugyanolyan fontos, mint a széppróza. A'80-as években a próza tûnt fontosabbnak. Ha, mondjuk, az utóbbi tíz év irodalmát nézed, akkor mit mondasz? Gondolok például arra, hogy a költõket ráveszik a kiadók, írjanak regényeket.}
+
+-- Igen, a kiadói marketing erõsen hat. Az irodalmi piac erõsen kapitalizálódott. Emlékszem rá, hogy '79 nyarán volt a siklósi írótalálkozó a~\emph{Mozgó Világ}~szervezésében. Ott Spiró György azt mondta, hogy õ költõként indult, de belátta, hogy sikert prózával lehet elérni, ezért írta meg a~\emph{Kerengõ}t. Ma is így van ez. Csodálom azt, hogy ragyogó lírai tehetségek regényírásra veszik rá magukat. Jóllehet, saját recepciójukból is észrevehetik, hogy nem teljesen ugyanazon a színvonalon mûködnek. Két nagyszabású példát mondanék. Rakovszky regényei nem közelítik meg verseinek színvonalát...
+
+\textbf{-- Talán az elsõ,~\emph{A kígyó árnyéka}~igen...}
+
+-- Azt én is nagyra tartom. A másik példám, Térey János~\emph{Káli holtak}~címû regénye is mélyen alatta van a költészetének.
+
+\textbf{-- Általában ma a költészet vagy a széppróza érdekesebb?}
+
+-- A költészet befogadását nagyon erõsen befolyásolja a slam poetry robbanásszerû kibontakozása. Ez esztétikai szempontból nagyon nehezen megítélhetõ. Ugyanakkor az, hogy hatalmas közönséget mozgósít, rendkívül érdekes fejlemény. Lehet, hogy a költészet kiszabadult abból a szûk értelmiségi kalitkából, amibe a magyar történelem során sokszor beszorult. Új fejlemény, hogy a prózában nagyon erõsen elõretört a történelem iránti érdeklõdés. Talán a történelmi regények tudnak a legsikeresebbek lenni ma. De persze általános ítéletet nem mondanék. Mikor a '80-as években Balassa Péter meghirdette a próza dominanciáját, és ezt nagyon sokan elhitték neki, akkor olyan jóslatokat is megengedett magának, amely jóslatok már az õ életében meghiúsultak. Éppen ezért azt kell mondanom, nagyon kockázatos a szinkron irodalomról bármiféle jóslást elõadni. Hiszen semmit nem lehet tudni arra nézvést, hogy egy újabb generációnak milyen lesz az ízlése és tájékozódása. A XX. század végén több nagy koncepció alakult ki a szinkron irodalom helyzetérõl, fõleg Balassa Péter és Kulcsár Szabó Ernõ koncepciója hatott. Mindkettõ a leírás terén fontos dolgokat mondott, de a jövõt illetõen bizony nagyon meglepõdhetünk, mert sem a lírai beszéd, sem a szépprózai beszéd nem azon az úton fejlõdött tovább, amelyen õk képzelték.
+
+\textbf{-- Mennyire követed a fiatal költõket? Bevallom, én sokszor nehezen. Ez vajon esztétikai vagy generációs probléma?}
+
+-- Nézd, generációs probléma természetesen van. Én ugyan eléggé mindenevõ vagyok, de a fiatal generáció iránt sokkal kevésbé érdeklõdöm, mint korábban. Jóllehet sok fiatal költõt elolvasok. De az egész generáció irodalmiságáról egyszerûen nincsen képem. Illetve csak mozaikos. A maiak tapasztalatai egészen mások. Amíg tanítottam az egyetemen, elég sok információm volt arra nézvést, a bölcsész egyetemisták hogyan nézik ma az irodalmat. Nagyon másképp. Ez egyáltalán nem baj, csak az õ irodalmiságukat összehozni az enyémmel, az sokkal problematikusabb, mint kicsit régebben lehetett.
+
+\textbf{-- Egyetemi oktatás, tudományos kutatás, a kortárs irodalom kritikája és lapszerkesztés. Melyik a legfontosabb neked?}
+
+-- Nincsen ilyen preferenciám. Irodalommal foglalkozni jó. Kritikusként igyekszem körülolvasni a mûvet, és kontextust teremteni köré. A lapszerkesztés a kritikusi szemlélet keretbe foglalása. Hogy amit fontosnak látok, azt megpróbáljam egymás mellé rendelni. És a szerkesztés során erõsebben dominál az egyéni ízlésem. Mivel a\emph{~2000}~vékonyka lap, csak azok kerülhetnek bele, akik számomra a legérdekesebbnek tûnnek. Az egyetemi oktatás és a tudományos kutatás között ismét nagyon nehéz lenne határt húzni, hiszen én többé-kevésbé mindig azt próbáltam elõadni, amit éppen tudományosan kutattam és gondoltam. Amikor én voltam egyetemista, sajnos nagyon kevés tanár engedte meg magának azt, hogy a saját véleményét prezentálja. Én viszont olyan szabadságot élvezhettem oktatói munkám során, hogy mindig azt taníthattam, amit gondoltam. Egyszer a hallgatóimat megleptem azzal az eretnek nézetemmel, hogy ha majd tanárok lesznek, soha ne beszéljenek olyan irodalmi mûrõl, amit nem olvastak. Aztán nagyon meglepõdtem azon, hogy õk ezen nagyon meglepõdtek.
+
+\textbf{-- Szerinted mi a nagyobb gond, ha az irodalomtörténész nem figyel a jelenkor irodalmára, vagy ha a jelenkor kritikusa nem figyel az irodalomtörténetre?}
+
+-- Hál' istennek az utóbbi évtizedekben már sok irodalomtörténész foglalkozik szinkron irodalommal is. De. A kritikusok jelentõs részének csekély az irodalomtörténeti mûveltsége. Ez baj. Mert a tiszta ízlésítéletre alapozott interpretáció kiszakítja a mûvet a hagyománynak a kontextusából, és emiatt rendkívül esendõvé válik. Az irodalom történetében mindig rengeteg analóg esetet, a kontextusban kínálkozó összehasonlítást, folyamatot találunk, és ez rendkívüli megvilágosító erõvel tud hatni bármilyen új mûnek a megértésére is. Persze az irodalomtörténeti anyag ismerete soha nem lehet teljes. Még egy ilyen viszonylag csekély terjedelmû irodalom esetében is, mint a magyar, olyan hatalmas szövegmennyiség áll elõttünk, hogy nincs ember, aki csak egy korszaknak is a teljességét megközelíteni tudná. Éppen ezért teljes körképet elvárni senkitõl sem lehet, a szakmán kívüli olvasótól pedig tiszteletlenség. A normális olvasó nem egy korszak egészét akarja elolvasni, hanem egyes mûveket. Ebbõl az következik, hogy a tudomány, az oktatás és a kritika is mindig csak egy meghatározott halmaznak az ismeretében fogalmazódik meg. És a tudósnak, az irodalmárnak mindig azt kell érzékeltetnie, hogy ezt a halmazt õ húzta körül! Gondoljunk csak arra, hogy a mai magyar irodalom is milyen elképesztõ mennyiségben önti ránk a mûveket. Egy statisztika szerint évente 400 olyan verseskötet jelenik meg, amit élõ költõ ad ki. Ennyit a hivatásos kritikusok sem tudnak elolvasni. Mikor a régi típusú irodalomtörténészek úgy fogalmaztak, hogy \textqq{mi} úgy gondoljuk, az arra utalt, hogy a szakma egésze elolvasta a teljes irodalmat, és amikor \textqq{én} mondok egy véleményt, akkor ez annak a közösségnek a szájából hangzik el, melynek tagja vagyok. Mára ez a közösség természetesen megmosolyogni valóvá vált. Szerintem ma mindazt, amit az irodalmár gondol Jókairól vagy Téreyrõl, egyes szám elsõ személyben kell hogy gondolja.
+
+\textbf{-- Sokat foglalkoztál Petõfivel. Beszéltél arról, hogy Petõfi mûködésének megértésében segített neked, hogy ismersz kortárs költõket.}
+
+-- Mindez persze nem a költészetére, hanem az irodalmi életben elfoglalt szerepére vonatkozott. Úgy láttam, hogy Petõfi korszakában alakult ki az az irodalmi élet, ami, ha rendkívül sok változással is, de máig fennmaradt. A klasszikus magyar irodalom nagyon erõs költõszerepeket termelt ki, s ezek máig kísértenek. Például Petõfit és Aranyt állandóan egymás tükrében nézi az irodalmi köztudat, ez odáig elmegy, hogy amikor József Attila és Illyés Gyula barátkoznak, akkor kiosztják egymásnak, hogy József lesz Petõfi, Illyés meg Arany. Fodor András naplójában olvastam nemrég, hogy megállapították, Bartók volt Petõfi és Kodály volt Arany. A szerepek öröklõdnek. Ahogyan Esterházy eljátszotta Kosztolányi és Ottlik szerepét, az is tanulságos. Esterházy Ottlik nyomán azt a szerepet vette föl, hogy az író csak egy \textqq{ürge}. S mikor meghalt, akkor azt hallottam, hogy a legnagyobb magyar halt meg. Belekerült abba a váteszszerepbe, amit pedig ifjúkorában opponált.
+
+\textbf{-- Jó, hogy Esterházyt mondod. Mintha a hagyományos költõszerepek ma inkább írószerepek lennének. A nemzet költõi ma inkább az írók, nem? Volt Vörösmarty, Ady, Babits. Ma meg van Kertész, Esterházy, Nádas.}
+
+-- Ebben sok igazság van. Az írók között ma nagyon erõs az a tendencia, hogy õk legyenek a \textqq{megmondó emberek}. Az író foglalkozásához mintha hozzátartoznék, hogy mûveiben megeleveníti, esszéiben viszont megmagyarázza a világot, ezért az idõsebb íróknak ma nagyon komoly társadalommagyarázó esszéisztikájuk is van. Ennek nemegy esetben nagyobb a visszhangja, mint fontosabb mûveiknek. Pedig ez nem volt mindig így. Vegyünk két nagyon komoly írót, Jókait és Mikszáthot. Karcolatokat, rövid újságcikkeket, tréfákat írtak, de egyáltalán nem írtak nagyesszéket, mondjuk Tisza Kálmánról és koráról. Az a világmagyarázó esszé, amit mondjuk Nádas, Esterházy, Spiró, Krasznahorkai és a többiek folyamatosan mûvelnek, ez új fejlemény. Kortárs költõk viszont kevésbé mûvelik ezt. A kortárs költészetnek a közvetlen társadalmi hatékonysága vagy a slam poetryben merül ki, ami húsz év múlva sehol se lesz, vagy a politikai költészetben, aminek ma igen csekély elismertsége van. A pár évvel ezelõtti politikai költészetrõl szóló vita, illetve a politikai költészet antológiája tulajdonképpen volt is, meg nem is. Úgy látom, mindez összefügg a Tandori--Petri-féle szerepváltással, hogy a költõk a képviseleti lírától eltértek, és a közösség nevében való beszédet a magánbeszéddel cserélték föl. Akkor is magánbeszéd lett ez, ha politikai tartalma volt, mint például Petri esetében!
+
+\textbf{-- Sokat foglalkoztál kultuszkutatással. Szoktad mondani, hogy a nem irodalmár barátaid mennyire máshogy látják az irodalmat. Mit szólsz ahhoz, mikor azt tapasztalod, hogy az irodalmat nem esztétikai szempontok alapján használják? Hanem például politikai, erkölcsi, nemzeti, pedagógiai célokra.}
+
+-- Az irodalmat mindig rengeteg mindenre használták, a tisztán esztétikai olvasás ritka. Az irodalom minden társadalmi rendezvényen ott van, temetés, országgyûlés, évzáró, születésnap, családi ünnep. Az irodalomnak rengeteg olyan funkciója is van, aminek semmi köze az esztétikumhoz. Például történelmi ismereteink nagy részét a regényekbõl merítjük, jóllehet az agyunk hátsó részében ott van, hogy a regények fikciók. De azért mégiscsak Coopertõl tudjuk, hogyan éltek a kanadai indiánok, s hogy milyen volt a magyar--török viszony, azt sajnos Gárdonyi Gézától.
+
+\textbf{-- Vagy jobb esetben Háy Jánostól, Láng Zsolttól.}
+
+-- Ilyen eset rengeteg van! Ne felejtsük el, hogy az irodalom Magyarországon nagyon súlyos kultikus tiszteletnek örvend ma is, az olvasáskultúra átalakulása után is, s ezért mindenki illetékesnek is érzi magát, hogy beleszóljon az irodalmi ügyekbe.
+
+\textbf{-- Ez baj?}
+
+-- Ez nem baj -- ez tény. Egyáltalán nem gondolom, hogy az irodalom kizárólag a szakma belügye lenne. Mindenkinek joga van ahhoz, hogy összevissza beszéljen az irodalomról, de ahhoz már nincs joga, hogy utána megsértõdjön, hogyha ezt kritizálják.
+
+\textbf{-- Az irodalomtanításban sokszor szoborként tekintenek az írókra. Háy János új könyve ez ellen is dolgozik, nem?}
+
+-- Háy könyve az irodalomoktatásban szerintem kontraproduktív lesz, mert csak gyarló és fura emberekrõl beszél, nem mûvekrõl. Hogy mért érdemes elolvasni a mûveket, azt elfelejti megmondani.
+
+\textbf{-- Mikor a~\emph{2000}~folyóiratot a rendszerváltáskor megcsináltátok, úgy gondoltátok, hogy ne legyen benne kritikarovat. Miért?}
+
+-- Mert megvolt a véleményünk a '70-es, '80-as évek rettenetes kritikarovatairól. Nekem ritka szerencsém, hogy a régi~\emph{Mozgó Világ}ban volt másfél évig sorozatom, majd utána 1993-ban a~\emph{Margináliák}kal teremtettem meg a magam, a magunk kritikai közegét, de nem a kritikarovatot.
+
+\textbf{-- A~\emph{2000~}a kezdetekkor 15 ezer példányban kelt el.}
+
+-- Az volt a célunk, hogy a társadalmi gondolkodást és az irodalmi kultúrát egymás tükrében egyszerre nézzük. De a rendszerváltás óta eltelt évtizedek alatt az a generális értelmiségi gondolkodás, amely mûvészetekben és tárdalomban együtt gondolkodott, sajnos nagyon visszaszorult. Ez is okozza ma a~\emph{2000~}nehézségeit a hivatal packázásai mellett.
+
+\textbf{-- Két kritikát szoktál emlegetni, ami nagyon fontos. Kölcsey Ferenc Berzsenyi-kritikáját és Erdélyi János Madách-kritikáját. Mi az, ami ezekbõl a vakmerõ kritikai attitûdökbõl ma megvalósítható?}
+
+-- Azt tanuljuk, hogy Kölcsey milyen tragédiát okozott Berzsenyinek, azt viszont nem tanuljuk, hogy mekkora baj az, hogy Kölcseybe beléfojtották emiatt a kritikusi szót. A tisztelettudóan nyers kritika kockázata ma is megvan, akár az én Nádas~\emph{Párhuzamos történetek}jérõl írt kritikámra és annak vegyes fogadtatására is utalhatok. Az erõs állítások hol igazak, hol nem, de a megszólalás erõteljessége már önmagában kihívásként hat. Pedig a kritika magánbeszéd. Ám még mindig él az a szorongás, hogy a negatív kritikának végzetes következménye lehet, holott ez rossz reflex. Én pártolnám, hogy erõteljesebb és szókimondóbb legyen a kritika, megadván természetesen a méltányos tiszteletet a szerzõnek és a mûnek, az elemzéssel és a részletes argumentációval, sõt magával a becsületes bírálattal.
+
+
+\end{document}
+

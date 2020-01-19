@@ -1,0 +1,98 @@
+% -*- mode: LaTeX; coding: iso-8859-2 -*-
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin2]{inputenc}
+\usepackage[magyar]{babel}
+\usepackage{hyperref}
+\begin{document}
+\author{Joseph Stiglitz}
+\title{ The Price of Inequality  }
+\date{2012, június 13 \thanks{Demo} }
+\maketitle
+
+\begin{abstract}
+  Joseph Stiglitz on "The Price of Inequality: How Today's Divided Society Endangers Our Future"
+\end{abstract}
+
+
+\textbf{NERMEEN~SHAIKH:}~We turn now to an issue that's gained increasing prominence in the last year: increasing inequality in the United States and the divide between the richest 1 percent and the rest of the country. Bloomberg News reported Tuesday that pay for the top CEOs on Wall Street increased by over 20 percent last year. The article is based on analysis of data reported to the Securities and Exchange Commission and finds that the substantial rise comes after a 26 percent jump in~CEO~salaries in 2010.
+
+Meanwhile, census data shows nearly one in two Americans, or 150 million people, have fallen into poverty or could be classified as low-income. Thirty-eight percent of African-American children and 35 percent of Latino children live in poverty.
+
+\textbf{AMY~GOODMAN:}~Well, our next guest has helped to popularize the expression "the 1 percent" and brought to light the causes behind increasing inequality in the United States. Joseph Stiglitz is a Nobel Prize-winning economist. During the Clinton administration from '93 to '97, he served on the Council of Economic Advisers. His May 2011~\emph{Vanity Fair}~\href{http://www.vanityfair.com/society/features/2011/05/top-one-percent-201105}{article}, "Of the 1\%, by the 1\%, for the 1\%," serves as the basis of his new book, \_The Price of Inequality: How Today's Divided Society Endangers Our Future\_. Joseph Stiglitz teaches at Columbia University.
+
+
+\textbf{JOSEPH~STIGLITZ:}~Nice to be here.
+
+\textbf{AMY~GOODMAN:}~I mean, this figure you have on page eight of your book, when you say, "Consider the Walton family: the six heirs to the Wal-Mart empire command wealth of \$69.7 billion, which is equivalent to the wealth of the entire bottom 30 percent of U.S. society."
+
+\textbf{JOSEPH~STIGLITZ:}~It's a comment both on how well off the top are and how poor the bottom are. And it's really emblematic of the divide that has gotten much worse in our society. One of the points I try to make in the book is, none of this is inevitable. It's not just market forces. United States is the country in the world with the highest level of inequality, and it's getting worse.
+
+\textbf{AMY~GOODMAN:}~The highest level?
+
+\textbf{JOSEPH~STIGLITZ:}~Of the advanced industrial countries.
+
+\textbf{AMY~GOODMAN:}~The highest level.
+
+\textbf{JOSEPH~STIGLITZ:}~Highest level of the advanced industrial countries. And to me, what's even more disturbing is, we've become the country with the least equality of opportunity of all the advanced industrial countries for which there's data. You know, we think of ourselves as a land of opportunity, American Dream. And there are all examples that we know of where people have made it---you know, immigrants, other people who have made it to the top. But what matters really are the numbers, the chances. You know, what are your life chances if you had the misfortune of being born to a poor family or somebody whose parents are not well educated? What are your chances of going from the bottom to the middle or the bottom to the top? And they are lower in the United States than in other advanced industrial countries.
+
+\textbf{NERMEEN~SHAIKH:}~I mean, it's a striking fact, because you talk about it a few times in your book, that now in old Europe there is more class mobility than there is in the U.S. And, of course, we always here think of Europe as being very class rigid.
+
+\textbf{JOSEPH~STIGLITZ:}~That's right. And this is a change, in many respects. And one of the other points I try to emphasize in the book is it has consequences. It has consequences for our sense of identity, of what we are, but it also has even more, you know, you might say, narrow economic consequences, because what it means is that if you have the---you know, make the mistake of choosing the wrong parents, the likelihood is that you're not going to live up to your potential. And we are, in that sense, wasting our most important assets: our human resources.
+
+\textbf{NERMEEN~SHAIKH:}~You also say that, ultimately, the rich will also pay an extraordinary price for this inequality. How?
+
+\textbf{JOSEPH~STIGLITZ:}~Well, we're all in the same boat together. You know, there are a lot of people who are very bright, who work very hard in developing countries, emerging markets, who have very low incomes. The point is that all of us benefit from our education system, our legal system, the way our whole society functions. In those parts of the world where there's a large divide, mainly in, you know, emerging markets, developing countries, where there's a large divide, societies fall apart. There's political, social, economic turmoil. And in that context, not even the 1 percent can do that well.
+
+\textbf{AMY~GOODMAN:}~I wanted---I wanted to ask you about the people we value and the people we don't. You have an amazing set of examples. You say, "Few are inventor" --- you say, "By looking at those at the top of the wealth distribution, we can get a feel {[}for{]} the nature of this aspect of America's inequality. Few are investors who have reshaped technology, or scientists who have reshaped our understandings of the laws of nature. Think of Alan Turing, whose genius provided the mathematics underlying the modern computer. Or of Einstein. Or of the discoverers of the laser (in which Charles Townes played a central role) or John Bardeen, Walter Brattain, and William Shockley, the inventors of transistors. Or of Watson and Crick, who unraveled the mysteries of~DNA, upon which rests so much of modern {[}medicine{]}. None of them, who made such large contributions to our well-being, are among those most rewarded by our economic system." We have very different names that are tied to these so-called inventions, like of the internet.
+
+\textbf{JOSEPH~STIGLITZ:}~That's right. And the point is that the theory that was developed in the 19th century to justify the inequality that was emerging with capitalism was marginal productivity theory. It was the notion that those who contributed the most to society will get bigger rewards. It was a sense, you might say, of moral justification, but also an argument for economic efficiency. And what we now realize is the individuals who have made the most important contributions are not those that are at the top. The people---many of the people who are at the top, for instance, are those financiers who brought the world to the brink of ruin. And the moment of Great Recession, I think, was a really telling moment in our rethinking of what was going on. You know, we all sort of understood that there was something wrong. But in that crisis where you saw so many bankers who had brought the world to the brink of ruin, who actually brought their companies to the brink of ruin, walk off with pay in the millions of dollars, it was very clear there was a disconnect between private rewards and social returns, really undermining the theory that was the basis of the justification of inequality in our society.
+
+\textbf{NERMEEN~SHAIKH:}~So when did financiers, though, come to have this kind of power?
+
+\textbf{JOSEPH~STIGLITZ:}~Well, it's been an evolution. But I think, in my mind, a really telling change was the repeal of Glass-Steagall, where we told the banks, you know, "Don't focus on what you're supposed to be doing, which is providing credit to new businesses to expand businesses." We brought together the commercial banks, which were the basis of the kind of prudent lending, and investment banks, who took rich people's money and gambled. And we put it together. We created these financial institutions that were too big to fail. And the result of that was they grew larger and larger, and the risk taking, gambling, speculation dominated, rather than the lending, which is the basis of a growing, productive economy.
+
+But in a way, the evolution of our economy, more generally, began about 1980. That's---if I would say, where's there a dividing point---where the CEOs began to realize that they could take a larger and larger share of the corporate income. They understood that we have deficient corporate governance laws. And so, we didn't require a say in pay. We didn't require---you know, shareholders are supposed to own the firms, but the shareholders had no say in the pay of the companies---of the managers of the companies that they were supposed to own. A very strange situation. I mean, if you have somebody working for you, you would say you ought to have some say in their pay. And the result of that is they took a larger and larger share. And if you look at those at the top---as I say, they're not the Watson and Cricks, the people who made these big changes---they're corporate CEOs.
+
+\textbf{AMY~GOODMAN:}~Who is Berners-Lee?
+
+\textbf{JOSEPH~STIGLITZ:}~Well, these are people who, you know, made the internet, the people who---
+
+\textbf{AMY~GOODMAN:}~But we think Mark Zuckerberg. We think Gates. We think Jobs.
+
+\textbf{JOSEPH~STIGLITZ:}~You know, all of these played an important role. You know, we shouldn't underestimate the importance of that. But all these rest on a foundation, and that foundation was largely publicly provided, publicly funded. You couldn't have a program if you didn't have a computer. And you don't have a computer unless you do the mathematical research that is---provided the foundation. That was the---Turing.
+
+\textbf{AMY~GOODMAN:}~Alan Turing.
+
+\textbf{JOSEPH~STIGLITZ:}~That was Alan Turing. You don't have internet programs unless you have the internet. And that was something that the U.S. government helped to develop, and these other people that helped develop the World Wide Web. So, you know, the irony is that the people who provided the foundation on which our entire modern economy is based are not the people who have done well.
+
+\textbf{NERMEEN~SHAIKH:}~I want to ask you about the presidential race and about Republican candidate Mitt Romney's record. Newark Mayor Cory Booker, a supporter of President Obama, generated controversy last month when he defended Romney's former company, Bain Capital. Booker spoke on~\emph{Meet the Press}.
+
+\begin{quote}
+\textbf{MAYOR~CORY~BOOKER:}~I have to just say, from a very personal level, I'm not about to sit here and indict private equity. It's---to me, it's just this---we're getting to a ridiculous point in America, and especially that I know. I live in a state where pension funds, unions and other people are investing in companies like Bain Capital. If you look at the totality of Bain Capital's record, it ain't---they've done a lot to support businesses, to grow businesses. And this, to me---I'm very uncomfortable.
+\end{quote}
+
+\textbf{NERMEEN~SHAIKH:}~Joseph Stiglitz, your comments on the role of private equity, and on Bain Capital, in particular?
+
+\textbf{JOSEPH~STIGLITZ:}~Well, let me first say, the financial sector is very important. A financial---you know, no economy can work well without a well-functioning financial sector. The problem with the United States is that our financial sector hasn't been doing what it's supposed to be doing. It's supposed to provide finance to create jobs, not to destroy jobs. It's supposed to allocate capital, manage risk.
+
+The concern about Bain Capital are twofold. One is that much of what they were doing was financial restructuring, which meant not creating jobs, taking money out of companies, putting them in a very fragile situation in which, a few years later, they go over the cliff, and jobs get destroyed. So, it is important to restructure firms to make them sustainable, efficient. But that wasn't what a lot of the enterprises that they were engaged in doing.
+
+The second problem, and I think most people find very disturbing, is that we have a tax law that says that those who are engaged working for this kind of restructuring---an important activity if it's done well and done in a way that creates more productivity, more jobs---why should those people pay so little taxes? And that---you know, going back to the upper 1 percent, their average tax rate is about 15 percent. We tax speculators at a lower rate than we tax people who work for a living. It makes no sense.
+
+\textbf{AMY~GOODMAN:}~Mayor Booker got a lot of flak for saying, sort of, "Back off Bain." But a number of Democrats have been saying that, and there's a war in the Obama administration now. Do you attack Romney on Bain, the company that he is running on, more than being governor of Massachusetts? And a lot of the Democrats are involved with Bain or have support from people at Bain or other similar companies. Your president, President Clinton---you served as the chief of economic advisers---he said, "Back off Bain." And you can see this tug-of-war going on, not only about Bain, though, and now you see them not really talking about Bain and talking about what you were just mentioning, Joe Stiglitz, but also about his offshore investments, offshore bank accounts, himself and his company. Can you talk about this and the fact that Clinton is one of the champions of saying, "Don't raise this. He's a good businessman"?
+
+\textbf{JOSEPH~STIGLITZ:}~Yeah. Well, first, we should understand, you know, that Romney is running on the platform: it's good to have a businessman running the White House; we do a better job. You know, the last~MBA~president we had was George Bush, and I don't think anybody would say that the economy was well run in those eight years. Deficits soared, and the economy finally went over the brink and into the Great Recession. So that qualification that he's touting, if I looked at that, you know, a Harvard~MBA, I'm not sure I would say that that is a kind of certification that I would want for running the country. You have to understand public policy, not just how to make money for yourself, which they do a good job of doing, but that's not what's entailed in running the country.
+
+I have some sympathy and say, let's not make this personal. Let's try to keep this at the basic level of principles. And, you know, the basic level of principles are relatively simple: people should be paying their share of the taxes. And paying share of taxes mean you don't pay half the rate of other people who are working for a living. It means you don't use offshore centers to escape taxes. You know, why is so much banking going on in the Cayman Islands? It's not that the weather there is really particularly suited for moving electrons and running banks. You know, it's there for one reason only: to escape regulation, to escape taxation, to undermine the basic principles of our economy. And it's wrong for somebody who is trying to run for the president, who should be symbolizing, you know, making their fair share, to be using offshore accounts to avoid taxes and to avoid regulation.
+
+The other point is, businesses are supposed to be creating value, creating jobs in America, and new American business. Now, this is where we have a tax system that's distorted. But when you're running for the president, you should be out there and saying we don't want a distorted tax system that encourages jobs to move abroad, that encourages speculation over real wealth creation. If he had come out and said, like Warren Buffett, that it's wrong for him---that Warren Buffett to have a lower tax rate than his secretary---if he came out and said it's wrong to have a tax structure that encourages jobs to move abroad, you know, then I might have a little bit more sympathy. But so far, I haven't heard that.
+
+\textbf{AMY~GOODMAN:}~Ed Conard, the former managing director at Bain Capital, who has contributed to Romney, advises Romney, and argues explicitly for doubling income inequality?
+
+\textbf{JOSEPH~STIGLITZ:}~Yeah. I find that astounding. I debated him yesterday, actually. The point is, he believes in trickle-down economics, a notion you throw a lot of money at the top and everybody does a lot better because of their innovation. Given the level of inequality in the United States, I wish it were true, because if it were true, we'd all be doing very well. But the evidence is, you know, overwhelmingly against that. We've had a growth at the top, but what's been happening to the average American? He's not doing very well. Most Americans today are worse off than they were a decade-and-a-half ago. And the people at the bottom have done even worse. If you started looking at, say, male workers, a full-time male worker, people who work for a living, for a male worker today, the average, typical---half above, half below---his income today is lower than it was in 1968, almost a half-century ago. So the American economy has been delivering for the people at the very top, but it's not been delivering for most Americans. And you can see it in another way in the data. In the periods like the period after World War II, we grew together, inequality was shrinking, and we grew much more rapidly than we have since 1980, where we've been growing apart. So the notion that more inequality leads to more growth, to put it quite frankly, is nonsense.
+
+\textbf{AMY~GOODMAN:}~Well, we're going to come back to this discussion. Joe Stiglitz, Nobel Prize-winning economist, author of~\emph{The Price of Inequality: How Today's Divided Society Endangers Our Future}. Stay with us.
+
+\end{document}
+

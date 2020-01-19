@@ -1,0 +1,63 @@
+% -*- mode: LaTeX; coding: iso-8859-2 -*-
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin2]{inputenc}
+\usepackage[magyar]{babel}
+\usepackage{hyperref}
+\begin{document}
+\author{Edward Snowden}
+\title{ Mass Spying "Not Something I'm Willing to Live Under  }
+\date{2013, július 10 \thanks{Demo} }
+\maketitle
+
+\begin{abstract}
+  
+\end{abstract}
+
+\section{Edward Snowden on Why He Stood Up to the~NSA: Mass Spying "Not Something I'm Willing to Live Under"}\label{edward-snowden-on-why-he-stood-up-to-thensa-mass-spying-not-something-im-willing-to-live-under}
+
+In a newly released interviewed conducted just before he came forward early last month, Edward Snowden explains why he has devoted his life to expose how the United States is spying on the world. Snowden says he thinks the biggest revelation to emerge from his leaks is the National Security Agency's collection of all communications into and out of the United States --- despite~NSA~claims that it only targets foreign traffic. Snowden also predicts that the U.S. government would seek to demonize him and accuse him of aiding America's enemies. Journalist Laura Poitras filmed the exchange, and Guardian columnist Glenn Greenwald asked the questions. "America is a fundamentally good country," Snowden says. "We have good people with good values who want to do the right thing, but the structures of power that exist are working to their own ends to extend their capability at the expense of the freedoms of all."
+
+
+This is a rush transcript. Copy may not be in its final form.
+
+JUAN~GONZÁLEZ:~Global outrage over the United States' efforts to spy on the world continue to mount. The Electronic Privacy Information Center filed an emergency petition Monday asking the U.S. Supreme Court to halt the National Security Agency's collection of millions of phone records. Also on Monday, the London-based Privacy International filed a lawsuit over alleged spying on Internet and phone users in Britain. And Brazil, meanwhile, launched an investigation into whether telecommunications firms operating in the country cooperated with the United States. Over the weekend, the~O Globo~newspaper revealed Brazil was the top target in Latin America for the NSA's global intelligence-gathering effort. This is Brazilian President Dilma Rousseff.
+
+PRESIDENT~DILMA~ROUSSEFF:~{[}translated{]} It is definitely a violation of sovereignty, without a doubt, just as it is a violation of human rights. Now we have to see, without rashness or prejudgment. We have to investigate. Brazil's position is very clear and very strong: We do not agree in any way with these kinds of interferences, not just in Brazil, but in any country.
+
+AMY~GOODMAN:~The report about U.S. surveillance in Brazil was based on leaks by Edward Snowden, the former intelligence contractor who leaked secrets about the U.S. spy program to~The Guardian~and~The Washington Post. Snowden remains at a Moscow airport while trying to obtain asylum. Three countries have offered to protect him so far: Venezuela, Cuba and Nicaragua. On Monday, Venezuelan President Nicolás Maduro confirmed he had received Snowden's official asylum request.
+
+PRESIDENT~NICOLÁS~MADURO:~{[}translated{]} We received an application letter for asylum from Snowden. He will need to decide when to fly here, if he definitely wants to fly here. The fact is that Latin America is humanitarian territory, and it's growing every day. This would be probably the only humanitarian asylum or political asylum that will be given collectively in history. There are already a couple of countries participating. This is a collective humanitarian asylum in which the territory of our Latin America, which is always human, says to the young man, "You are always being persecuted by the imperialist. It's best to come here."
+
+AMY~GOODMAN:~We turn now to~NSA~leaker Edward Snowden in his own words. In a newly released video, Snowden claims the National Security Agency gathers all communications into and out of the United States, despite~NSA~claims that it only targets foreign traffic. Snowden also predicted the U.S. government would seek to demonize him and accuse him of aiding America's enemies. Snowden conducted this interview on June 6th in a Hong Kong hotel room just before he was revealed as theNSA~leaker. He was interviewed by Glenn Greenwald of~The Guardian. It was filmed by journalist Laura Poitras.
+
+GLENN~GREENWALD:~Have you given thought to what it is that the U.S. government's response to your conduct is, in terms of what they might say about you, how they might try to depict you?
+
+EDWARD~SNOWDEN:~I think the government's going to---to launch an investigation. I think they're going to say I've committed grave crimes, I've violated the Espionage Act. They're going to say, you know, I've aided our enemies in making them aware of these systems. But that argument can be made against anybody who reveals information that points out mass surveillance systems, because, fundamentally, they apply equally to ourselves as they do to our enemies.
+
+GLENN~GREENWALD:~When you decided to enter this world, did you do so with the intention of weaseling your way in and becoming a mole so that you could one day undermine it with disclosures, or what was your perspective and mindset about it at the time that you first sort of got into this whole---this whole realm?
+
+EDWARD~SNOWDEN:~No, I joined the intelligence community when I was very young, sort of the government as a whole. I enlisted in the Army shortly after the invasion of Iraq, and I believed in the goodness of what we were doing. I believed in the nobility of our intentions to free oppressed people overseas, but over time, over the length of my career, as I watched the news and I increasingly was exposed to true information that had not been propagandized in the media, that we were actually involved in misleading the public and misleading all publics, not just the American public, in order to create a certain mindset in the global consciousness, and I was actually a victim of that. America is a fundamentally good country. We have good people with good values who want to do the right thing. But the structures of power that exist are working to their own ends to extend their capability at the expense of the freedom of all publics.
+
+LAURA~POITRAS:~Can you talk about what you think some of the most important primary documents are and what they reveal?
+
+EDWARD~SNOWDEN:~The primary disclosures are the fact that theNSA~doesn't limit itself to foreign intelligence. It collects all communications that transit the United States. There are literally no ingress or egress points anywhere in the continental United States where a communication may enter or exit without being monitored and collected and analyzed. The Verizon document speaks highly to this, because it literally lays out they're using an authority that was intended to be used to seek warrants against individuals, and they're applying it to the whole of society by basically subverting a corporate partnership through major telecommunications providers, and they're getting everyone's calls, everyone's call records, and everyone's Internet traffic, as well.
+
+On top of that, you've got Boundless Informant, which is a sort of a global---global auditing system for the NSA's intercept and collection system that lets us track how much---how much we're collecting, where we're collecting, by which authorities and so forth. The~NSA~lied about the existence of this tool to Congress and to specific congressmen in response to previous inquiries about their surveillance activities.
+
+Beyond that, we've got~PRISM, which is a demonstration of how the U.S. government co-opts U.S. corporate power to its own ends. Companies like Google, Facebook, Apple, Microsoft, they all get together with the~NSA~and provide the~NSA~direct access to the back ends of all of the systems you use to communicate, to store data, to put things in the cloud, and even just to send birthday wishes and keep a record of your life. And they give~NSA~direct access that they don't need to oversee so they can't be held liable for it. I think that's a dangerous capability for anybody to have, but particularly an organization that's demonstrated time and time again that they'll work to shield themselves from oversight.
+
+GLENN~GREENWALD:~Was there a specific point in time that you can point to when you crossed the line from contemplation to decision making and commitment to do this?
+
+EDWARD~SNOWDEN:~I grew up with the understanding that the world I lived in was one where people enjoyed a sort of freedom to communicate with each other in privacy, without it being monitored, without it being measured or analyzed or sort of judged by these shadowy figures or systems, any time they mention anything that travels across public lines. I think a lot of people of my generation, anybody who grew up with the Internet, that was their understanding. As we've seen the Internet and government's relation to the Internet evolve over time, we've seen that sort of open debate, that free market of ideas, sort of lose its domain and be shrunk.
+
+GLENN~GREENWALD:~But what is it about that set of developments that makes them sufficiently menacing or threatening to you that you are willing to risk what you've risked in order to fight them?
+
+EDWARD~SNOWDEN:~I don't want to live in a world where everything that I say, everything I do, everyone I talked to, every expression of creativity or love or friendship is recorded. And that's not---that's not something I'm willing to support, it's not something I'm willing to build, and it's not something I'm willing to live under. So, I think anyone who opposes that sort of world has an obligation to act in a way they can. Now, I've watched and waited and tried to do my job in the most policy-driven way I could, which is to wait and allow other people, you know, wait and allow our leadership, our figures, to sort of correct the excesses of government when we go too far. But as I've watched, I've seen that's not occurring, and in fact we're compounding the excesses of prior governments and making it worse and more invasive. And no one is really standing to stop it.
+
+AMY~GOODMAN:~That was part two of~NSA~whistleblower Edward Snowden's interview with~The Guardian. It was conducted on June 6 in Hong Kong. Journalist Laura Poitras filmed the exchange, and~Guardian~columnist Glenn Greenwald, with Laura, asked the questions. 
+
+This is~Democracy Now!, democracynow.org,~The War and Peace Report. We'll be going to Quito to speak with the Ecuador's foreign minister, Patio, to ask about the latest around Snowden, around the downing of the flight of Evo Morales, forcing him down in Austria, what happened a few days ago, and we'll also ask him about Julian Assange. Stay with us.
+
+\end{document}
+

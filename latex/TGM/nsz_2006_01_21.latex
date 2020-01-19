@@ -1,0 +1,90 @@
+% -*- mode: LaTeX; coding: iso-8859-2 -*-
+\documentclass[a4paper,twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin2]{inputenc}
+\usepackage[magyar]{babel}
+\begin{document}
+\author{Tamás Gáspár Miklós}
+\title{ Ne bántsátok szegény Viktort }
+\date{2006, január 21 \thanks{NSZ } }
+\topmargin -1.8cm        % read Lamport p.163
+\oddsidemargin -1.8cm   % read Lamport p.163
+\evensidemargin -1.8cm  % same as oddsidemargin but for left-hand pages
+\textwidth      7.5in
+\textheight	10.0in
+\maketitle
+
+\begin{flushright}
+A szociálliberális vagy balközép sajtót olvasván az embernek az a benyomása keletkezhetik, hogy Orbán Viktor és rongyos gárdája megtámadta a kormánykoalíció állásait vagy egyenesen rárontott nemzetére.
+\end{flushright}
+
+%\textqq{}
+% - --
+Ámultan nézem ezt a beszéd- és írásfolyamot.
+
+Ellenzéki vezérként Orbán képviselõ jól nevelt, kedves, puha, törleszkedõ kiscica, akit a simulékonyság és az olykori halk nyávogás jellemez.
+
+A legutóbbi országgyûlési választásokon elszenvedett csekély mérvû veresége után lelkesen és lojálisan megszavazta Medgyessy Péter száznapos programját a nemzeti egység jegyében. Az erre következõ helyhatósági választásokat már csattanósan vesztette el a jobboldal. Ha Orbán Viktor is egyetért a szocialista miniszterelnökkel, miért ne szavazzunk a kormánykoalíció jelöltjeire? -- kérdezhették sokan.
+
+Az európai parlamenti választásokat megnyerte a Fidesz, ám ezt az elõnyét udvariasan nem használta ki. Viszont a balközép kormánykoalícióval való erõpróbának nyilvánította a kettõs népszavazást, amelynek elsõ kérdését az akkor még egységes kommunista párt kezdeményezte, a másodikat pedig a Magyarok Világszövetségének elnöksége, amely a mai magyarországi jobboldal halálos ellenségeibõl áll. Erre a két kérdésre -- amelyhez semmi bensõ köze nem volt -- tette föl sorsát a mindenki által zseniális taktikusnak tekintett Orbán. A népszavazási küzdelemben a hagyományos nacionalizmus és a bevándorlóellenes \textqq{jóléti sovinizmus} csapott össze, és természetesen az utóbbi nyert.
+
+Ekkor a szociálliberális sajtó fölszólította Orbán Viktort, hogy hagyja a trianonozást és a \textqq{szimbolikus politizálást} (ezen Magyarországon a nemzeti jelképek és retorika használatát értik), és õ ezt a tanácsot engedelmesen megfogadta. Katasztrofális veresége éjjelén bejelentette, hogy avval fog foglalkozni ezentúl, amit a szociálliberális sajtó \textqq{valóságos kérdéseknek} nevez (azaz a gazdasági kérdésekkel), s kinyilvánította, hogy \textqq{sorvezetõje} a \textqq{létbizonytalanság} lesz.
+
+A balközép fölszólította Orbán Viktort, hogy mellõzze az Európa-ellenességet.
+
+Orbán Viktor és a Fidesz csont nélkül megszavazta az európai alkotmányszerzõdés neoliberális tervezetét (a kormánytöbbséggel együtt), amelytõl csak a francia nép mentett meg bennünket.
+
+A balközép fölszólította Orbán Viktort, hogy oszlassa el a jobboldalnak a zsidókhoz és Izraelhez fûzõdõ viszonyát illetõ kételyeket.
+
+Orbán Viktor erre elutazott Izraelbe, ahol kitüntetõ figyelemmel fogadták a knesszetben és egyebütt. Orbán nekibúsult, szilaj \textqq{likudnyik}-ként tért vissza a Szentföldrõl (\textqq{a Likud a Fidesz természetes szövetségese} -- mondta). Nem sokan mertek ilyen gesztust tenni, az MSZP és az SZDSZ elnöke biztosan nem.
+
+A balközép fölszólította Orbán Viktort, hogy legyen kedvesebb és békülékenyebb az utódállamokkal, szomszédainkkal.
+
+Orbán és a Fidesz csont nélkül megszavazta Románia EU-fölvételét.
+
+A balközép fölszólította Orbán Viktort, hogy ne ossza meg az erdélyi magyarokat, ne támasszon körükben átkos széthúzást.
+
+Erre Orbán Viktor haladéktalanul kibékült Markó Bélával, akivel együtt utálta volt, és akivel együtt vesztette volt el a népszavazási küzdelmet.
+
+Az SZDSZ bejelentette, hogy egykulcsos adót javasol, amelyet olyan fejlett nyugati demokráciák alkalmaznak, mint Románia, Szlovákia és a megszállt Irak.
+
+Erre Orbán Viktor is bejelentette, hogy egykulcsos adót (\textqq{flat tax}) akar. Gazdasági fõembere, Matolcsy is egykulcsos adót akar. Ez viszont népszerûtlen, ezért Orbán visszavonta ezt a javaslatát, míg Matolcsy továbbra is fönntartja. (Ezt szeretik ám a választók.)
+
+A balközép fölszólította Orbán Viktort, hogy hozza rendbe csakugyan megromlott viszonyát az amerikai kormánynyal.
+
+Erre Orbán beszédet mondott a neokonzervatív/neoliberális fõhadiszálláson, az American Enterprise Institute-ban (és állandóan tárgyal \textqq{az idegen tõke} hazai képviselõivel), többedmagával díszvendégnek hívta meg George W. Bush elnököt az idén esedékes '56-os emlékünnepségekre. Külpolitikai vezetõ emberei számtalan cikkben és nyilatkozatban erõsítgették, hogy Orbán Viktort mennyire szeretik Washingtonban -- s csakugyan, ha szófogadó, miért ne szeretnék? Elvégre néhány kisebb morgás ellenére nem indított kampányt Magyarország iraki háborús részvétele ellen.
+
+Azt mondja Orbán Viktor, hogy néhány biztató gazdasági adat ellenére sok magyar embernek rosszul megy a sora?
+
+De hiszen Ferge Zsuzsa akadémikus -- Gyurcsány Ferenc szocialista miniszterelnök szociálpolitikai fõtanácsadója -- is ugyanezt mondja.
+
+Azt mondja Orbán Viktor, hogy túl nagy az államháztartási hiány, túl nagy az államadósság?
+
+De hiszen Bokros Lajos, Bauer Tamás és Békesi László is ezt mondja.
+
+A balközép sajtó (közelebbrõl: a Népszabadság, még közelebbrõl: e sorok írója) fölszólítja Orbán Viktort: térjen viszsza a parlamentbe.
+
+Orbán Viktor visszatér a parlamentbe.
+
+A balközép sajtó fölszólítja Orbán Viktort: békítse meg a 2002-ben megbántott \textqq{panelprolikat}.
+
+Orbán Viktor munkástagozatot alapít, HÉV-vel látogatja a lakótelepeket, magasztalja a Kádár-rendszert (rendszeresen), \textqq{antikommunista} létére együtt mutatkozik Szûrös Mátyással, a Központi Bizottság volt titkárával, Pozsgay Imrével, a Politikai Bizottság volt tagjával, a Kádár-nosztalgiát megtestesítõ Kudlik Júliával. Már csak A \textqq{nagykoalíciós} Berecz János hiányzik; nem sokáig.
+
+A balközép sajtó fölszólítja Orbán Viktort, \textqq{megosztó} pártpropagandájában ne éljen (vissza) a nemzeti jelképekkel.
+
+A Fidesz visszatér a kezdetek narancssárgájához plakátjain és hirdetésein. És ki jelenik meg piros-fehér-zöld díszletben a minap? Gyurcsány és Hiller.
+
+A szociálliberális közvélemény kevesli Orbán és a jobboldal demokratikus elkötelezettségét.
+
+Orbán ezrekkel konzultál, gesztusokat tesz, amelyek azt jelzik, hallgat másokra, a baloldal gondolataiban is lel alkalmazható ideákra. Tömeggyûlésein mellõzi a kívülállók számára fenyegetõnek föltûnhetõ külsõségeket. Tónusa társalgó, nem szónoki.
+
+A szociálliberális médiákok nagyobb Európa-barátságra sarkallják Orbánt.
+
+S csakugyan: mi történik erre? Gyurcsány, a szociálliberális kormánytöbbség vezetõje mondja: \textqq{mi a fenét akar tõlünk Európa?} -- ugyanõ mondja, hogy neki fontosabb a magyarok jóléte, mint az euró bevezetése; ugyanõ küzd oroszlánként elvbarátjával, Tony Blairrel a szûken értelmezett magyar nemzeti érdek (steksz) védelmében. Mit tesz Orbán? Brüsszelbõl üzen haza -- mint újdonsült euromániás eurokrata --, óva intvén a magyar kormányt a szûkkeblû nemzetieskedéstõl, a népjóléti populizmustól, az államadósságtól és a költségvetési hiánytól. Mint fölényes kozmopolita, külföldön bírálja hazája kormányát, amit miniszterelnök korában még nem helyeselt, de hát az ember fejlõdik.
+
+Mégis a balközép sajtó állandóan támadja Orbán Viktort, ami érthetetlen. Hiszen szociálliberális szemszögbõl Orbán Viktor majdnem tökéletes.
+
+Akkor volna teljesen tökéletes, ha ezúttal nem a szõlõtelepítési támogatásokról, hanem a szavazatokról mondaná:
+
+\textqq{Ne mi kapjuk a legtöbbet.} 
+\end{document}
