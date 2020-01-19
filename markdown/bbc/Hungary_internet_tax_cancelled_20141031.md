@@ -1,0 +1,37 @@
+---
+authors: 
+- anonim
+categories: 
+- BBC
+title: "anonim:Hungary internet tax cancelled after mass protests"
+date: "2014-10-31"
+---
+> anonim: Hungary internet tax cancelled after mass protests - BBC http://www.bbc.co.uk/news/world-europe-29846285; 2014-10-31
+
+“This tax in its current form cannot be introduced,” Prime Minister Viktor Orban said on Friday.
+
+Large-scale protests began on Sunday, when demonstrators hurled old computer parts at the headquarters of Mr Orban’s ruling Fidesz party.
+
+The draft law - condemned by the EU - would levy a fee on each gigabyte of internet data transferred.
+
+The protesters objected to the financial burden but also feared the move would restrict free expression and access to information.
+
+The levy was set at 150 forints (pounds0.40; 0.50 euros; \$0.60) per gigabyte of data traffic.
+
+After thousands protested the government decided to cap the tax at 700 forints per month for individuals and 5,000 forints for companies. But that did not placate the crowds.
+
+Fidesz had said the special tax was needed to balance Hungary’s budget in 2015.
+
+Speaking on Kossuth public radio, Mr Orban said that "if the people not only dislike something but also consider it unreasonable then it should not be done...
+
+“The tax code should be modified. This must be withdrawn, and we do not have to deal with this now.”
+
+He said a measure seen by the government as a technical issue had become “a fear-inducing vision”.
+
+There will be a national consultation on it in January, he said.
+
+A European Commission spokesman, Ryan Heath, ***said the tax was “bad in principle”*** because it was a unilateral measure applied to a global phenomenon.
+
+He said it was “part of a pattern... of actions that have limited freedoms or sought to take rents without achieving wider economic or social interest” in Hungary.
+
+The Commission has previously criticised Mr Orban’s government for constitutional proposals seen to be cementing the Fidesz party’s political dominance.
