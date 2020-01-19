@@ -3,14 +3,10 @@ authors:
 - Edward Snowden
 categories: 
 - Demo
-authors: 
-- EDWARD~SNOWDEN:~The primary disclosures are the fact that theNSA~doesn't limit itself to foreign intelligence. It collects all communications that transit the United States. There are literally no ingress or egress points anywhere in the continental United States where a communication may enter or exit without being monitored and collected and analyzed. The Verizon document speaks highly to this, because it literally lays out they're using an authority that was intended to be used to seek warrants against individuals, and they're applying it to the whole of society by basically subverting a corporate partnership through major telecommunications providers, and they're getting everyone's calls, everyone's call records, and everyone's Internet traffic, as well.
-authors: 
-- On top of that, you've got Boundless Informant, which is a sort of a global---global auditing system for the NSA's intercept and collection system that lets us track how much---how much we're collecting, where we're collecting, by which authorities and so forth. The~NSA~lied about the existence of this tool to Congress and to specific congressmen in response to previous inquiries about their surveillance activities.
-title: "On top of that, you've got Boundless Informant, which is a sort of a global---global auditing system for the NSA's intercept and collection system that lets us track how much---how much we're collecting, where we're collecting, by which authorities and so forth. The~NSA~lied about the existence of this tool to Congress and to specific congressmen in response to previous inquiries about their surveillance activities.:Mass Spying "Not Something I'm Willing to Live Under"
+title: "Edward Snowden:Mass Spying "Not Something I'm Willing to Live Under"
 date: "2013-07-10"
 ---
-> On top of that, you've got Boundless Informant, which is a sort of a global---global auditing system for the NSA's intercept and collection system that lets us track how much---how much we're collecting, where we're collecting, by which authorities and so forth. The~NSA~lied about the existence of this tool to Congress and to specific congressmen in response to previous inquiries about their surveillance activities.: Mass Spying "Not Something I'm Willing to Live Under - Demo; 2013-07-10
+> Edward Snowden: Mass Spying "Not Something I'm Willing to Live Under - Demo; 2013-07-10
 
 Edward Snowden on Why He Stood Up to the NSA: Mass Spying “Not Something I’m Willing to Live Under”
 ===================================================================================================

@@ -3,14 +3,10 @@ authors:
 - anonim
 categories: 
 - BBC
-authors: 
-- Demonstrators called on Mr Orban to resign and demanded the ousting of six public officials, including the head of Hungary's tax authority, who have been accused of corruption.
-authors: 
-- Many accuse Mr Orban, who leads the country's centre-right Fidesz Party, of becoming increasingly authoritarian.
-title: "Many accuse Mr Orban, who leads the country's centre-right Fidesz Party, of becoming increasingly authoritarian.:Thousands attend Hungary 'public outrage day' protest"
+title: "anonim:Thousands attend Hungary 'public outrage day' protest"
 date: "2014-11-18"
 ---
-> Many accuse Mr Orban, who leads the country's centre-right Fidesz Party, of becoming increasingly authoritarian.: Thousands attend Hungary 'public outrage day' protest - BBC ; 2014-11-18
+> anonim: Thousands attend Hungary 'public outrage day' protest - BBC ; 2014-11-18
 
 Demonstrators chanted slogans against Prime Minister Viktor Orban, accusing him of employing corrupt officials and being too close to Russia.
 

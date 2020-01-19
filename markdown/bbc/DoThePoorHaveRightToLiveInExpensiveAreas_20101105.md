@@ -3,12 +3,10 @@ authors:
 - Jon Kelly
 categories: 
 - BBC
-authors: 
-- Additionally, the recent past offers warnings about what happens when the urban poor are displaced from their communities, Lynsey Hanley, author of Estates: An Intimate History, argues.
-title: "Additionally, the recent past offers warnings about what happens when the urban poor are displaced from their communities, Lynsey Hanley, author of Estates: An Intimate History, argues.:Do the poor have a right to live in expensive areas?"
+title: "Jon Kelly:Do the poor have a right to live in expensive areas?"
 date: "2010-01-05"
 ---
-> Additionally, the recent past offers warnings about what happens when the urban poor are displaced from their communities, Lynsey Hanley, author of Estates: An Intimate History, argues.: Do the poor have a right to live in expensive areas? - BBC; 2010-01-05
+> Jon Kelly: Do the poor have a right to live in expensive areas? - BBC; 2010-01-05
 
 The row over housing benefit has led to warnings of “social cleansing”. But can those on low incomes really have an entitlement to stay in expensive localities?
 

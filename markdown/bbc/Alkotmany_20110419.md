@@ -3,16 +3,10 @@ authors:
 - Nick Thorpe
 categories: 
 - BBC
-authors: 
-- Hungary's parliament has voted in favour of a new constitution which ends the transition from a totalitarian to a democratic system, its authors claim.
-authors: 
-- The authors of the constitution call it a basic law for the 21st century.
-authors: 
-- Other criticisms include limits to the authority of the constitutional court and a reduction in the number of parliamentary ombudsmen.
-title: "Other criticisms include limits to the authority of the constitutional court and a reduction in the number of parliamentary ombudsmen.:Hungary: Parliament votes for new constitution"
+title: "Nick Thorpe:Hungary: Parliament votes for new constitution"
 date: "2011-04-19"
 ---
-> Other criticisms include limits to the authority of the constitutional court and a reduction in the number of parliamentary ombudsmen.: Hungary: Parliament votes for new constitution - BBC ; 2011-04-19
+> Nick Thorpe: Hungary: Parliament votes for new constitution - BBC ; 2011-04-19
 
 Hungary’s parliament has voted in favour of a new constitution which ends the transition from a totalitarian to a democratic system, its authors claim.
 

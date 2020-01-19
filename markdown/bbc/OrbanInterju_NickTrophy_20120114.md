@@ -3,14 +3,10 @@ authors:
 - Nick Trophy
 categories: 
 - BBC
-authors: 
-- \section{'Authoritarian' rule }\label{authoritarian-rule}
-authors: 
-- His government stands accused of autocratic, even authoritarian, moves to take over state institutions - most seriously the national bank - of trampling human rights underfoot and of destroying democratic checks and balances.
-title: "His government stands accused of autocratic, even authoritarian, moves to take over state institutions - most seriously the national bank - of trampling human rights underfoot and of destroying democratic checks and balances.:Are Hungary's reforms a step too far?"
+title: "Nick Trophy:Are Hungary's reforms a step too far?"
 date: "2012-01-14"
 ---
-> His government stands accused of autocratic, even authoritarian, moves to take over state institutions - most seriously the national bank - of trampling human rights underfoot and of destroying democratic checks and balances.: Are Hungary's reforms a step too far? - BBC ; 2012-01-14
+> Nick Trophy: Are Hungary's reforms a step too far? - BBC ; 2012-01-14
 
 As Hungary’s new constitutional and financial reforms meet with strong opposition, the BBC’s Nick Thorpe considers the government’s record in office since April 2010.
 

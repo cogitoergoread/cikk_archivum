@@ -3,14 +3,10 @@ authors:
 - Laurent Geslin
 categories: 
 - 
-authors: 
-- The border with Hungary is guarded by police with dogs and heat detectors. Every year hundreds of migrants from Pakistan, Afghanistan and Somalia try to cross it. „It costs around \$6,300, and it's virtually impossible to get across without bribing the border guards,” said Haruni, a Somali who has been waiting to cross for two years, in Uzhhorod, the regional capital. In 2012 the authorities discovered two tunnels to Slovakia and seized 13,000 cartons of contraband cigarettes, worth around \$160,000. According to sociologist Antal Örkény, most locals only survive by small-scale cross-border trafficking. They are even more cut off from the EU than they were before the creation of the Schengen Area.
-authors: 
-- On the road from Berehove to Uzhhorod is Palanok Castle, former seat of Prince Ferenc Rákóczi II, who led a war of independence against the Habsburgs between 1703 and 1711. Betty Henkel, an unemployed graduate, said: „Hungarians have always lived here; Ukraine is only 20~years old. Today, they try to portray us as an anomaly but we have our own schools, our own political parties, our own cultural associations. Of course, we all live together and we do our best to get on with the Ukrainian authorities. But we have no expectations of the Ukrainian government.”
-title: "On the road from Berehove to Uzhhorod is Palanok Castle, former seat of Prince Ferenc Rákóczi II, who led a war of independence against the Habsburgs between 1703 and 1711. Betty Henkel, an unemployed graduate, said: „Hungarians have always lived here; Ukraine is only 20~years old. Today, they try to portray us as an anomaly but we have our own schools, our own political parties, our own cultural associations. Of course, we all live together and we do our best to get on with the Ukrainian authorities. But we have no expectations of the Ukrainian government.”:The kingdom of Greater Hungary --- again?"
+title: "Laurent Geslin:The kingdom of Greater Hungary --- again?"
 date: "-01-01"
 ---
-> On the road from Berehove to Uzhhorod is Palanok Castle, former seat of Prince Ferenc Rákóczi II, who led a war of independence against the Habsburgs between 1703 and 1711. Betty Henkel, an unemployed graduate, said: „Hungarians have always lived here; Ukraine is only 20~years old. Today, they try to portray us as an anomaly but we have our own schools, our own political parties, our own cultural associations. Of course, we all live together and we do our best to get on with the Ukrainian authorities. But we have no expectations of the Ukrainian government.”: The kingdom of Greater Hungary --- again? - ; -01-01
+> Laurent Geslin: The kingdom of Greater Hungary --- again? - ; -01-01
 
 „My grandfather lived in five different countries without ever leaving his home village,” said Sándor Igyártó, a retired customs officer who is a Ukrainian citizen of Hungarian origin. „The Hungarians came back in 1938, and during the second world war he was drafted into the Hungarian army and sent to fight on the eastern front. When the Soviets annexed this region in 1944 he was deported to Siberia, and he was only able to come home after Stalin died.”
 

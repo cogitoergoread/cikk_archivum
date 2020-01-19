@@ -3,20 +3,10 @@ authors:
 - Amy Goodman
 categories: 
 - Demo
-authors: 
-- AMY~GOODMAN:~Well, our next guest has written a new book that lays out the arguments for and against climate engineering, and reveals the extent of vested interests linking researchers, venture capitalists and corporations. We're joined by Clive Hamilton, professor of public ethics at Charles Sturt University in Canberra, Australia. He's the author of~Earthmasters: The Dawn of the Age of Climate Engineering.
-authors: 
-- And so, there's a man called Russ George, who---an entrepreneur with a colorful history, who's carried out a couple of experiments here, including one off the coast of British Columbia a couple of months ago, entirely unauthorized and probably illegal. And yet, he was up there spreading iron slurry or iron sulfates from the back of his ship, carrying out a geoengineering experiment, which highlights one of the main concerns that many of us have. There's virtually no regulation of geoengineering. And when it comes to sulfate aerosol spraying, there's nothing to prevent a government, any government, or even a corporation or a billionaire with a messiah complex, from launching a program of taking control of the Earth's weather by installing this kind of solar shield. So the absence of governance, the absence of regulation and the exclusion, particularly of people from poor and vulnerable countries, is a very serious concern.
-authors: 
-- AMY~GOODMAN:~In 2010, we spoke to freelance journalist~\href{http://www.democracynow.org/2010/7/8/a_debate_on_geoengineering_vandana_shiva}{Gwynne Dyer}, author of~Climate Wars: The Fight for Survival as the World Overheats. He defended geoengineering.
-authors: 
-- CLIVE~HAMILTON:~Yes, it came to prominence through this unauthorized experiment by this colorful entrepreneur, Russ George, who said he was spreading iron sulfate in order to stimulate salmon stocks. But, in fact, he had tried it before, specifically as a form of geoengineering. And he has said quite explicitly---in fact, he's tried to sell shares in his company, saying, "We can spread iron sulfate on the seas, which will encourage it to suck up carbon dioxide. We will generate carbon credits this way, which we can sell on the international market." So, you know, it's very much a commercial venture, which has not very good science behind it. And it's---so it's rung alarm bells amongst regulators and certain environment groups, that here we have someone, a rogue geoengineer, who's taken it upon himself to experiment with these kinds of schemes to affect the planet---the climate of the planet.
-authors: 
-- AMY~GOODMAN:~On that note, I want to thank you very much, Clive Hamilton, professor of public ethics at Charles Sturt University in Canberra, Australia, author of the new book~Earthmasters: The Dawn of the Age of Climate Engineering.
-title: "AMY~GOODMAN:~On that note, I want to thank you very much, Clive Hamilton, professor of public ethics at Charles Sturt University in Canberra, Australia, author of the new book~Earthmasters: The Dawn of the Age of Climate Engineering.:Geoengineering"
+title: "Amy Goodman:Geoengineering"
 date: "2013-05-24"
 ---
-> AMY~GOODMAN:~On that note, I want to thank you very much, Clive Hamilton, professor of public ethics at Charles Sturt University in Canberra, Australia, author of the new book~Earthmasters: The Dawn of the Age of Climate Engineering.: Geoengineering - Demo; 2013-05-24
+> Amy Goodman: Geoengineering - Demo; 2013-05-24
 
 Some are arguing the best way to address climate change is to use the controversial practice of geoengineering—the deliberate altering of the Earth to decrease the level of greenhouse gas emissions. While controlling the Earth’s climate system sounds like science fiction, such proposals are already being hatched out by government agencies, scientists, businesses around the world. Supporters of geoengineering endorse radical ways to manipulate the planet, including creating artificial volcanoes to pollute the atmosphere with sulfur particles. This is environmental scientist David Keith explaining the idea.
 

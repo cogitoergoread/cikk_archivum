@@ -3,12 +3,10 @@ authors:
 - Gavin Hewitt
 categories: 
 - BBC
-authors: 
-- Bailly: "We were not informed of this new legislation before the adoption of the law. That could be a possible breach...it seems very clear that there is a violation." Bailly said the EU Commission sent a letter to the Hungarian authorities Oct. 22 requesting more information on the taxes.
-title: "Bailly: "We were not informed of this new legislation before the adoption of the law. That could be a possible breach...it seems very clear that there is a violation." Bailly said the EU Commission sent a letter to the Hungarian authorities Oct. 22 requesting more information on the taxes.:Europe and press freedom"
+title: "Gavin Hewitt:Europe and press freedom"
 date: "2011-01-06"
 ---
-> Bailly: "We were not informed of this new legislation before the adoption of the law. That could be a possible breach...it seems very clear that there is a violation." Bailly said the EU Commission sent a letter to the Hungarian authorities Oct. 22 requesting more information on the taxes.: Europe and press freedom - BBC ; 2011-01-06
+> Gavin Hewitt: Europe and press freedom - BBC ; 2011-01-06
 
 Welcome to 2011. The year begins with a question. Is Hungary fit to assume [the rotating presidency of the European Union?](http://www.eu2011.hu/)
 

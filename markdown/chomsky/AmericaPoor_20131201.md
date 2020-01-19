@@ -3,12 +3,10 @@ authors:
 - Noam Chomsky
 categories: 
 - Salon
-authors: 
-- If you care about other people, that's now a very dangerous idea. If you care about other people, you might try to organize to undermine power and authority. That's not going to happen if you care only about yourself. Maybe you can become rich, but you don't care whether other people's kids can go to school, or can afford food to eat, or things like that. In the United States, that's called "libertarian" for some wild reason. I mean, it's actually highly authoritarian, but that doctrine is extremely important for power systems as a way of atomizing and undermining the public.
-title: "If you care about other people, that's now a very dangerous idea. If you care about other people, you might try to organize to undermine power and authority. That's not going to happen if you care only about yourself. Maybe you can become rich, but you don't care whether other people's kids can go to school, or can afford food to eat, or things like that. In the United States, that's called "libertarian" for some wild reason. I mean, it's actually highly authoritarian, but that doctrine is extremely important for power systems as a way of atomizing and undermining the public.:America hates its poor"
+title: "Noam Chomsky:America hates its poor"
 date: "2013-12-01"
 ---
-> If you care about other people, that's now a very dangerous idea. If you care about other people, you might try to organize to undermine power and authority. That's not going to happen if you care only about yourself. Maybe you can become rich, but you don't care whether other people's kids can go to school, or can afford food to eat, or things like that. In the United States, that's called "libertarian" for some wild reason. I mean, it's actually highly authoritarian, but that doctrine is extremely important for power systems as a way of atomizing and undermining the public.: America hates its poor - Salon ; 2013-12-01
+> Noam Chomsky: America hates its poor - Salon ; 2013-12-01
 
 Q: An article that recently came out in Rolling Stone, titled “Gangster Bankers: Too Big to Jail,” by Matt Taibbi, asserts that the government is afraid to prosecute powerful bankers, such as those running HSBC. Taibbi says that there’s “an arrestable class and an unarrestable class.” What is your view on the current state of class war in the U.S.?
 

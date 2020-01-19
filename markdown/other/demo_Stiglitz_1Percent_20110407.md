@@ -3,14 +3,10 @@ authors:
 - Joseph Stiglitz
 categories: 
 - Demo
-authors: 
-- This week Republicans unveiled a budget proposal for 2012 that cuts more than \$5.8 trillion in government spending over the next decade. The plan calls for sweeping changes to Medicaid and Medicare, while reducing the top corporate and individual tax rates to 25 percent. We speak to Nobel Prize-winning economist Joseph Stiglitz, who addresses the growing class divide taking place in the United States and inequality in a new \emph{Vanity Fair} article titled "Of the 1, by the 1, for the 1\%." Stiglitz is a professor at Columbia University and author of numerous books, most recently \emph{Freefall: America, Free Markets, and the Sinking of the World Economy}. "It's not just that the people at the top are getting richer," Stiglitz says. "Actually, they're gaining, and everybody else is decreasing... And right now, we are worse than old Europe."
-authors: 
-- Joseph Stiglitz is a Nobel Prize-winning economist, professor at Columbia University, author of numerous books, most recently \emph{Freefall: America, Free Markets, and the Sinking of the World Economy}.
-title: "Joseph Stiglitz is a Nobel Prize-winning economist, professor at Columbia University, author of numerous books, most recently \emph{Freefall: America, Free Markets, and the Sinking of the World Economy}.:Assault on Social Spending"
+title: "Joseph Stiglitz:Assault on Social Spending"
 date: "2011-04-07"
 ---
-> Joseph Stiglitz is a Nobel Prize-winning economist, professor at Columbia University, author of numerous books, most recently \emph{Freefall: America, Free Markets, and the Sinking of the World Economy}.: Assault on Social Spending - Demo; 2011-04-07
+> Joseph Stiglitz: Assault on Social Spending - Demo; 2011-04-07
 
 This week Republicans unveiled a budget proposal for 2012 that cuts more than \$5.8 trillion in government spending over the next decade. The plan calls for sweeping changes to Medicaid and Medicare, while reducing the top corporate and individual tax rates to 25 percent. We speak to Nobel Prize-winning economist Joseph Stiglitz, who addresses the growing class divide taking place in the United States and inequality in a new *Vanity Fair* article titled “Of the 1, by the 1, for the 1%.” Stiglitz is a professor at Columbia University and author of numerous books, most recently *Freefall: America, Free Markets, and the Sinking of the World Economy*. “It’s not just that the people at the top are getting richer,” Stiglitz says. “Actually, they’re gaining, and everybody else is decreasing... And right now, we are worse than old Europe.”
 

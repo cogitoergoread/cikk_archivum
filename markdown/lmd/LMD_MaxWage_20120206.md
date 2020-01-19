@@ -3,14 +3,10 @@ authors:
 - Sam Pizzigati
 categories: 
 - LMD
-authors: 
-- Today the heirs to Adler, Pinchot and Long are focused on enterprise more than income tax. They advocate that US authorities --- local, state, and national --- leverage the power of the public purse to deny tax dollars to corporations that pay their top executives high multiples of workers' earnings. Almost every major US corporation currently depends on tax dollars. Companies get tax dollars to perform government contracts or for economic development subsidies or, indirectly, via tax breaks and preferences. No tax dollars should go to corporations that pay their executives over 10 or more times what their workers are making (3). „The federal government currently denies contracts to companies that increase, through discriminatory employment practices, racial or gender inequality in the United States,” notes an Institute for Policy Studies report. „The same principle could be invoked to deny contracts to companies that, through excessive executive compensation, increase the nation's economic inequality” (4).
-authors: 
-- Sam Pizzigati is an associate fellow at the Institute for Policy Studies in Washington DC, editor of the journal Too Much and author of The Rich Don't Always Win, Seven Stories Press, New York, forthcoming 2012
-title: "Sam Pizzigati is an associate fellow at the Institute for Policy Studies in Washington DC, editor of the journal Too Much and author of The Rich Don't Always Win, Seven Stories Press, New York, forthcoming 2012:The war on salaries - Enough is enough"
+title: "Sam Pizzigati:The war on salaries - Enough is enough"
 date: "2012-02-06"
 ---
-> Sam Pizzigati is an associate fellow at the Institute for Policy Studies in Washington DC, editor of the journal Too Much and author of The Rich Don't Always Win, Seven Stories Press, New York, forthcoming 2012: The war on salaries - Enough is enough - LMD ; 2012-02-06
+> Sam Pizzigati: The war on salaries - Enough is enough - LMD ; 2012-02-06
 
 US radicals came up a century ago with sound proposals for a maximum income, enforced through progressive taxation, to ensure that the rich couldn’t so easily buy political influence, as well as to adjust inequality
 

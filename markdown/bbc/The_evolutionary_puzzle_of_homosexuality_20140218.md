@@ -3,12 +3,10 @@ authors:
 - William Kremer
 categories: 
 - BBC
-authors: 
-- There are two or more ways this might happen. One possibility is that the allele confers a psychological trait that makes straight men more attractive to women, or straight women more attractive to men. "We know that women tend to like more feminine behavioural features and facial features in their men, and that might be associated with things like good parenting skills or greater empathy," says Qazi Rahman, co-author of Born Gay; The Psychobiology of Sex Orientation. Therefore, the theory goes, a low "dose" of these alleles enhances the carrier's chances of reproductive success. Every now and then a family member receives a larger dose that affects his or her sexual orientation, but the allele still has an overall reproductive advantage.
-title: "There are two or more ways this might happen. One possibility is that the allele confers a psychological trait that makes straight men more attractive to women, or straight women more attractive to men. "We know that women tend to like more feminine behavioural features and facial features in their men, and that might be associated with things like good parenting skills or greater empathy," says Qazi Rahman, co-author of Born Gay; The Psychobiology of Sex Orientation. Therefore, the theory goes, a low "dose" of these alleles enhances the carrier's chances of reproductive success. Every now and then a family member receives a larger dose that affects his or her sexual orientation, but the allele still has an overall reproductive advantage.:The evolutionary puzzle of homosexuality"
+title: "William Kremer:The evolutionary puzzle of homosexuality"
 date: "2014-02-18"
 ---
-> There are two or more ways this might happen. One possibility is that the allele confers a psychological trait that makes straight men more attractive to women, or straight women more attractive to men. "We know that women tend to like more feminine behavioural features and facial features in their men, and that might be associated with things like good parenting skills or greater empathy," says Qazi Rahman, co-author of Born Gay; The Psychobiology of Sex Orientation. Therefore, the theory goes, a low "dose" of these alleles enhances the carrier's chances of reproductive success. Every now and then a family member receives a larger dose that affects his or her sexual orientation, but the allele still has an overall reproductive advantage.: The evolutionary puzzle of homosexuality - BBC ; 2014-02-18
+> William Kremer: The evolutionary puzzle of homosexuality - BBC ; 2014-02-18
 
 Macklemore and Ryan Lewis’s hit song Same Love, which has become an unofficial anthem of the pro-gay marriage campaign in the US, reflects how many gay people feel about their sexuality.
 
