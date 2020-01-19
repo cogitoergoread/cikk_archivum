@@ -3,10 +3,10 @@ authors:
 - Surányi György
 categories: 
 - Népszabadság
-title: "Surányi György:A magyar "csoda""
+title: "Surányi György:A magyar 'csoda'"
 date: "2007-01-21"
 ---
-> Surányi György: A magyar "csoda" - Népszabadság ; 2007-01-21
+> Surányi György: A magyar 'csoda' - Népszabadság ; 2007-01-21
 
 Egyetlen “botlástól” eltekintve (Népszabadság, 2002. december), az elmúlt években elkerültem, hogy a szűk nyilvánosságon kívül fejtsem ki álláspontomat a gazdaságpolitikáról, illetve a monetáris politikáról. Megszólalásomnak most alapvetően két oka van.
 

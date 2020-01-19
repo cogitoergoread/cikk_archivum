@@ -3,10 +3,10 @@ authors:
 - Edward Snowden
 categories: 
 - Demo
-title: "Edward Snowden:Mass Spying "Not Something I'm Willing to Live Under"
+title: "Edward Snowden:Mass Spying - Not Something I'm Willing to Live Under"
 date: "2013-07-10"
 ---
-> Edward Snowden: Mass Spying "Not Something I'm Willing to Live Under - Demo; 2013-07-10
+> Edward Snowden: Mass Spying - Not Something I'm Willing to Live Under - Demo; 2013-07-10
 
 Edward Snowden on Why He Stood Up to the NSA: Mass Spying “Not Something I’m Willing to Live Under”
 ===================================================================================================
