@@ -1,6 +1,6 @@
 ---
-authors: Dr. Patay Gábor 
-- 
+authors:
+- Dr. Patay Gábor
 categories: 
 - Facebook
 title: "Korona"
