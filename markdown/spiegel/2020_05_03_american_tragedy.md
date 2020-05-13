@@ -64,7 +64,7 @@ Hyatt is responsible for more than 1,800 employees, and she wants to set a good 
 Around 200 people show up for Andrew's burial. Afterward, they all come together for a wake. None of them are concerned that doing so could be dangerous.
 
 Andrew's sister Dorothy Johnson spoke to him on the phone just the day before he died, with his wife finding him dead in the living room a short time later. Nobody knows what caused his death.
->
+
 Johnson has worked in the cancer ward of the local hospital for the last 28 years and she loves her job. In Dougherty County, where Albany is located, 70 percent of the population is black. Poverty is a widespread problem, Johnson explains over the phone.
 
 She heard about corona for the first time just yesterday, on the day before the funeral, having seen Trump on the television. According to her recollection, he said that the virus is in China and there is no cause for concern - and that the Democrats are merely using the disease to make him look bad.
