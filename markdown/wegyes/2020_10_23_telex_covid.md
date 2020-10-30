@@ -9,7 +9,7 @@ date: "2020-02-03"
 
 > https://telex.hu/koronavirus/2020/10/22/koronavirus-fertozottseg-megyei-statisztika-uj-fertozottek-adatok-terkep
 
-*Az elmúlt hét nap új fertőzötteinek számát százezer lakosra vetítve most az látszik, hogy a vírus leginkább Nógrád, Vas és Győr-Moson-Sopron megyében terjed.  A fertőzés terjedését mutató listában Budapest csak a hatodik helyen áll. Németország is ezt a számítási módszert veszi alapul, ezért minősítette ma Heves, Zala és Somogy megyét is beutazás szempontjából kockázatos területnek. *
+*Az elmúlt hét nap új fertőzötteinek számát százezer lakosra vetítve most az látszik, hogy a vírus leginkább Nógrád, Vas és Győr-Moson-Sopron megyében terjed.  A fertőzés terjedését mutató listában Budapest csak a hatodik helyen áll. Németország is ezt a számítási módszert veszi alapul, ezért minősítette ma Heves, Zala és Somogy megyét is beutazás szempontjából kockázatos területnek.*
 
 
 Már az első hullám idején is megszokhattuk, hogy a kormány nem halmozza el adatokkal a magyar lakosságot a járvány terjedéséről, de a legszükségesebb adatokat azért naponta és rendszeresen közli. A hazai adatszolgáltatás egyik legnagyobb hiányossága, hogy a vírus terjedésének megyei eloszlásáról nem sokat tudunk. A koronavirus.gov.hu-n minden nap megjelenik egy nagyon rossz felbontású térkép, amelyen csak az eddig igazolt fertőzöttek számát tüntetik fel. Ennek nem sok értelme van, mert ez azokat is tartalmazza, akik tavasszal kapták el a fertőzést és azóta régen meggyógyultak vagy meghaltak. A térképből nem nem derül ki az sem, hogy most éppen hány aktív fertőzött van az egyes megyékben.
