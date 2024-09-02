@@ -3,7 +3,7 @@ authors:
 - Cseke Balázs
 categories:
 - Telex
-title: "ugló új polgármestere: Az ATV, Fiala, a Publicus és a Republikon ne nagyon számítson megbízásokra"
+title: "Zugló új polgármestere: Az ATV, Fiala, a Publicus és a Republikon ne nagyon számítson megbízásokra"
 date: "2024-06-24"
 ---
 
