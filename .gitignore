@@ -47,6 +47,8 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
+
 # Emacs
 *~
 
+*.html
